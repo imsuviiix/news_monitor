@@ -28,6 +28,7 @@
       기준일: {{ digest.date }} ·
       수집 구간: {{ digest.window_start[11:16] }} ~ {{ digest.window_end[11:16] }} ·
       생성 시각: {{ digest.generated_at[:16].replace('T', ' ') }}
+      {%- if digest.dedup_removed %} · 중복 {{ digest.dedup_removed }}건 제외{% endif %}
     </p>
 
     <div class="outlet-grid">

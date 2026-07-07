@@ -7,6 +7,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 import config
+from dedup import dedupe_outlets
 from scraper.naver_scraper import fetch_outlet_window
 
 KST = ZoneInfo(config.TIMEZONE)
@@ -56,11 +57,16 @@ def collect_all(reference_time=None):
             }
         )
 
+    removed = dedupe_outlets(outlets_result)
+    if removed:
+        print(f"[collector] 중복 기사 {removed}건 제거됨")
+
     return {
         "generated_at": datetime.now(KST).isoformat(),
         "window_start": window_start.isoformat(),
         "window_end": window_end.isoformat(),
         "date": window_end.date().isoformat(),
+        "dedup_removed": removed,
         "outlets": outlets_result,
     }
 
