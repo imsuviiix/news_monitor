@@ -48,10 +48,15 @@ def build_messages(digest):
 
 
 def send_digest(digest):
+    """digest를 텔레그램으로 전송한다. 성공하면 True, 실패/미설정이면 False."""
     if not config.TELEGRAM_BOT_TOKEN or not config.TELEGRAM_CHAT_ID:
-        print("[WARN] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID가 설정되지 않아 전송을 건너뜁니다.")
-        return
+        print(
+            "[ERROR] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID가 설정되지 않았습니다. "
+            "GitHub Actions라면 저장소 시크릿 이름이 정확한지 확인하세요."
+        )
+        return False
 
+    ok = True
     url = TELEGRAM_API_URL.format(token=config.TELEGRAM_BOT_TOKEN)
     for message in build_messages(digest):
         resp = requests.post(
@@ -66,3 +71,26 @@ def send_digest(digest):
         )
         if resp.status_code != 200:
             print(f"[ERROR] 텔레그램 전송 실패: {resp.status_code} {resp.text}")
+            ok = False
+    return ok
+
+
+def main():
+    """data/latest.json을 텔레그램으로 전송. 실패하면 종료 코드 1."""
+    import json
+    import os
+    import sys
+
+    path = os.path.join(config.DATA_DIR, "latest.json")
+    if not os.path.exists(path):
+        print("[ERROR] data/latest.json이 없습니다. 먼저 수집을 실행하세요.")
+        sys.exit(1)
+    with open(path, encoding="utf-8") as f:
+        digest = json.load(f)
+    if not send_digest(digest):
+        sys.exit(1)
+    print("[telegram] 전송 완료")
+
+
+if __name__ == "__main__":
+    main()

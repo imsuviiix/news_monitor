@@ -31,11 +31,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Collect overnight news and send to Telegram
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python run_daily.py
+      - name: Collect overnight news
+        run: python run_daily.py --skip-telegram
 
       - name: Commit digest history
         run: |
@@ -56,3 +53,11 @@ jobs:
 
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # 전송 실패가 사이트 배포를 막지 않도록 마지막에 실행.
+      # 시크릿이 잘못되면 이 스텝이 빨간색으로 실패해 바로 알 수 있다.
+      - name: Send digest to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python telegram_bot.py
