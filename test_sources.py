@@ -29,7 +29,7 @@ def main():
             status = "OK " if items else "빈결과"
             print(f"[{status}] {outlet['name']} (oid={outlet['oid']}) - {len(items)}건")
             for item in items[:2]:
-                print(f"        - {item['title']} ({item['published_at']})")
+                print(f"        - {item['title']} ({item['date_text']})")
         except Exception as exc:
             print(f"[FAIL] {outlet['name']} (oid={outlet['oid']}) - {exc}")
 
