@@ -1,9 +1,12 @@
-"""수집된 야간 사회면 뉴스 digest를 보여주는 웹사이트."""
+"""수집된 야간 사회면 뉴스 digest를 보여주는 웹사이트 (로컬 확인용).
+
+GitHub Pages 배포는 build_site.py가 같은 템플릿으로 정적 HTML을 생성한다.
+"""
 import glob
 import json
 import os
 
-from flask import Flask, abort, render_template
+from flask import Flask, abort, render_template, url_for
 
 import config
 
@@ -29,10 +32,21 @@ def list_available_dates():
     return [os.path.basename(f)[len("digest_") : -len(".json")] for f in files]
 
 
+def _render(digest, current_date):
+    nav = [{"date": d, "href": url_for("digest_view", date=d)} for d in list_available_dates()]
+    return render_template(
+        "index.html",
+        digest=digest,
+        dates=nav,
+        current_date=current_date,
+        css_href=url_for("static", filename="style.css"),
+        home_href=url_for("index"),
+    )
+
+
 @app.route("/")
 def index():
-    digest = load_digest()
-    return render_template("index.html", digest=digest, dates=list_available_dates(), current_date=None)
+    return _render(load_digest(), None)
 
 
 @app.route("/digest/<date>")
@@ -40,7 +54,7 @@ def digest_view(date):
     digest = load_digest(date)
     if not digest:
         abort(404)
-    return render_template("index.html", digest=digest, dates=list_available_dates(), current_date=date)
+    return _render(digest, date)
 
 
 if __name__ == "__main__":

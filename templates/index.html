@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>사회면 야간 뉴스 브리핑</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ css_href }}">
 </head>
 <body>
   <header class="page-header">
@@ -14,9 +14,9 @@
 
   {% if dates %}
   <nav class="date-nav">
-    <a href="{{ url_for('index') }}" class="{{ 'active' if current_date is none else '' }}">최신</a>
+    <a href="{{ home_href }}" class="{{ 'active' if current_date is none else '' }}">최신</a>
     {% for d in dates %}
-      <a href="{{ url_for('digest_view', date=d) }}" class="{{ 'active' if d == current_date else '' }}">{{ d }}</a>
+      <a href="{{ d.href }}" class="{{ 'active' if d.date == current_date else '' }}">{{ d.date }}</a>
     {% endfor %}
   </nav>
   {% endif %}

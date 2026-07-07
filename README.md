@@ -17,23 +17,41 @@
 - `run_daily.py`가 위 과정을 한 번에 실행하는 진입점이며, 매일 아침 7시 이후 cron/스케줄러로
   실행하는 것을 전제로 만들어졌습니다.
 
-## ⚠️ 실행 전 꼭 확인할 것
+## 🚀 운영 구성: GitHub Actions + GitHub Pages (서버 불필요, 무료)
 
-이 코드는 news.naver.com 접속이 차단된 개발 환경에서 공개 자료 조사만으로 작성되었고,
-**실시간으로 접속 테스트를 하지 못했습니다.** 특히 아래 두 가지는 배포 전에 반드시 확인하세요.
+`.github/workflows/daily-digest.yml` 워크플로가 **매일 07:05(KST)** 에 자동으로:
 
-1. `config.py`의 `OUTLETS` 목록에 있는 `oid` 값이 실제 언론사와 맞는지
-2. `scraper/naver_scraper.py`의 CSS 선택자(`ul.type06_headline`, `ul.type06`, `span.date` 등)가
-   최신 네이버뉴스 페이지 구조와 맞는지
+1. 10개 언론사 야간 사회면 뉴스를 수집하고
+2. 텔레그램으로 전송하고
+3. 수집 결과(`data/digest_*.json`)를 저장소에 커밋하고 (과거 이력 보존)
+4. 정적 사이트를 빌드해 GitHub Pages로 배포합니다.
 
-인터넷이 되는 환경에서 아래 명령으로 바로 점검할 수 있습니다.
+### 최초 1회 설정 (GitHub 저장소에서)
+
+1. **Settings → Secrets and variables → Actions → New repository secret** 으로 두 개 등록:
+   - `TELEGRAM_BOT_TOKEN` — BotFather에게 받은 봇 토큰
+   - `TELEGRAM_CHAT_ID` — 메시지 받을 chat id
+2. **Settings → Pages → Source** 를 **"GitHub Actions"** 로 설정
+3. (선택) **Actions 탭 → Daily news digest → Run workflow** 로 수동 실행해 바로 테스트
+
+이후엔 매일 아침 자동으로 돌아가고, 사이트는 `https://<계정>.github.io/news_monitor/` 에서 볼 수 있습니다.
+
+참고:
+- 스케줄 워크플로는 저장소의 **기본 브랜치**에서만 동작합니다. 이 코드를 기본 브랜치에 두세요.
+- GitHub Actions 스케줄은 수분~수십분 지연될 수 있지만, 수집 구간은 실행 시점의 날짜 기준으로
+  계산되므로 결과는 동일합니다.
+- 저장소에 60일간 커밋이 없으면 GitHub이 스케줄을 자동 비활성화하는데, 이 워크플로는 매일
+  digest를 커밋하므로 계속 활성 상태로 유지됩니다.
+
+## 언론사 수집 점검
 
 ```bash
 python test_sources.py
 ```
 
-각 언론사별로 오늘자 사회면 1페이지를 읽어 몇 건이 잡히는지 보여줍니다. 특정 언론사가 계속
-0건이거나 FAIL이 뜨면 `config.py`의 `oid`를 다시 찾아 수정하거나, 셀렉터를 조정해주세요.
+각 언론사별로 오늘자 사회면 1페이지를 읽어 몇 건이 잡히는지 보여줍니다. (2026-07 기준
+10개사 모두 실수집 검증 완료.) 특정 언론사가 계속 0건이거나 FAIL이 뜨면 `config.py`의
+`oid`를 확인하거나 `scraper/naver_scraper.py`의 CSS 선택자를 조정해주세요.
 
 ## 설치
 
@@ -53,7 +71,7 @@ cp .env.example .env
 3. `https://api.telegram.org/bot<TOKEN>/getUpdates` 를 브라우저로 열어 `chat.id` 값을 확인합니다.
    (그룹은 보통 음수 id) → `TELEGRAM_CHAT_ID`
 
-## 사용법
+## 로컬 사용법
 
 ### 1) 수동으로 한 번 실행 (수집 + 저장 + 텔레그램 전송)
 
@@ -64,13 +82,13 @@ python run_daily.py
 ### 2) 웹사이트로 확인
 
 ```bash
-python app.py
+python app.py          # 로컬 개발 서버 (http://localhost:5000)
+python build_site.py   # GitHub Pages용 정적 HTML을 site/에 생성
 ```
 
-브라우저에서 http://localhost:5000 접속. 언론사별 카드로 헤드라인/시간이 표시되고,
-상단 날짜 탭에서 과거 digest도 볼 수 있습니다.
+언론사별 카드로 헤드라인/시간이 표시되고, 상단 날짜 탭에서 과거 digest도 볼 수 있습니다.
 
-### 3) 매일 아침 자동 실행
+### 3) 직접 서버를 운영하는 경우의 대안 (GitHub Actions을 안 쓸 때)
 
 **cron 사용 (Linux/macOS 서버):**
 
@@ -96,16 +114,18 @@ python scheduler.py
 ## 디렉터리 구조
 
 ```
-config.py              언론사 목록(oid), 시간 구간, 텔레그램 설정
-scraper/naver_scraper.py  네이버뉴스 기반 스크레이핑 핵심 로직
-collector.py            전체 언론사 수집 오케스트레이션 + JSON 저장
+config.py                언론사 목록(oid), 시간 구간, 텔레그램 설정
+scraper/naver_scraper.py 네이버뉴스 기반 스크레이핑 핵심 로직
+collector.py             전체 언론사 수집 오케스트레이션 + JSON 저장
 telegram_bot.py          digest -> 텔레그램 메시지 포맷/전송
-app.py                   Flask 웹사이트
+app.py                   Flask 웹사이트 (로컬 확인용)
+build_site.py            GitHub Pages용 정적 사이트 빌드
 templates/, static/      웹사이트 템플릿/스타일
-run_daily.py             수집+저장+전송 진입점 (cron에서 호출)
-scheduler.py             상시 프로세스로 매일 07:05 자동 실행하고 싶을 때
+run_daily.py             수집+저장+전송 진입점
+scheduler.py             자체 서버에서 상시 프로세스로 돌리고 싶을 때
 test_sources.py          언론사별 수집 상태 점검 스크립트
-data/                    수집 결과 JSON 저장 위치 (gitignore)
+data/                    수집 결과 JSON (저장소에 커밋되어 이력 보존)
+.github/workflows/daily-digest.yml  매일 07:05 자동 수집+전송+배포
 ```
 
 ## 알려진 한계
