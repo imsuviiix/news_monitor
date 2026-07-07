@@ -6,7 +6,7 @@
 "42분전", "8시간전", "1일전" 같은 상대 표기로만 나오기 때문에,
 1) 상대 시각으로 수집 구간에 걸칠 가능성이 있는 후보를 고른 뒤
 2) 각 기사 본문 페이지의 data-date-time 속성에서 정확한 발행 시각을 읽어
-   "전일 23:00 ~ 당일 07:30" 구간을 정밀하게 필터링한다.
+   "전일 19:00 ~ 당일 07:00" 구간을 정밀하게 필터링한다.
 """
 import re
 import time
@@ -27,7 +27,7 @@ HEADERS = {
     "Referer": "https://news.naver.com/",
 }
 
-MAX_PAGES = 30
+MAX_PAGES = 60  # 통신사(연합뉴스 등)는 하루 기사량이 많아 여유 있게 잡음
 REQUEST_SLEEP_SEC = 0.25
 REQUEST_TIMEOUT = 10
 ARTICLE_FETCH_WORKERS = 8
@@ -157,7 +157,7 @@ def _collect_candidates(session, oid, date_str, ws, we, now):
 
 def fetch_outlet_window(session, oid, window_start, window_end, now=None):
     """
-    window_start(전일 23:00) ~ window_end(당일 07:30) 사이에 발행된 기사를 수집한다.
+    window_start(전일 19:00) ~ window_end(당일 07:00) 사이에 발행된 기사를 수집한다.
     window_start / window_end는 tz-aware datetime이어야 한다.
     """
     ws = window_start.replace(tzinfo=None)

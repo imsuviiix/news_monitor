@@ -1,4 +1,4 @@
-"""언론사별 사회면 야간 뉴스(전일 23:00~당일 07:30)를 수집해 digest(dict)로 만든다."""
+"""언론사별 사회면 야간 뉴스(전일 19:00~당일 07:00)를 수집해 digest(dict)로 만든다."""
 import json
 import os
 from datetime import datetime, timedelta

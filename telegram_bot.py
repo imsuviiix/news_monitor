@@ -26,25 +26,29 @@ def build_messages(digest):
         f'\U0001F517 <a href="{config.SITE_URL}">웹사이트에서 보기</a>\n\n'
     )
 
-    blocks = []
+    messages = []
+    current = header
+
+    def append_line(line, outlet_title):
+        """한 줄을 추가하되, 길이 제한을 넘으면 메시지를 끊고 언론사 제목을 다시 단다."""
+        nonlocal current
+        if len(current) + len(line) + 1 > MAX_MESSAGE_LEN and current.strip():
+            messages.append(current.rstrip())
+            current = f"{outlet_title} (계속)\n" if outlet_title else ""
+        current += line + "\n"
+
     for outlet in digest["outlets"]:
-        lines = [f"<b>■ {outlet['name']} ({outlet['count']})</b>"]
+        outlet_title = f"<b>■ {outlet['name']} ({outlet['count']})</b>"
+        append_line(outlet_title, None)
         if outlet["articles"]:
             for article in outlet["articles"]:
                 t = _format_time(article["published_at"])
                 title = _escape_html(article["title"])
-                lines.append(f'· <a href="{article["link"]}">{title}</a> ({t})')
+                append_line(f'· <a href="{article["link"]}">{title}</a> ({t})', outlet_title)
         else:
-            lines.append("수집된 기사가 없습니다.")
-        blocks.append("\n".join(lines))
+            append_line("수집된 기사가 없습니다.", outlet_title)
+        current += "\n"
 
-    messages = []
-    current = header
-    for block in blocks:
-        if len(current) + len(block) + 2 > MAX_MESSAGE_LEN and current.strip():
-            messages.append(current.rstrip())
-            current = ""
-        current += block + "\n\n"
     if current.strip():
         messages.append(current.rstrip())
     return messages

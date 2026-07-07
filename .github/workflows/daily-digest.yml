@@ -2,8 +2,9 @@ name: Daily news digest
 
 on:
   schedule:
-    # 22:35 UTC = 07:35 KST (GitHub Actions 스케줄은 수분~수십분 지연될 수 있음)
-    - cron: "35 22 * * *"
+    # 22:01 UTC = 다음날 07:01 KST. 일~목(UTC) = 월~금(KST) 아침, 즉 주말 제외.
+    # (GitHub Actions 스케줄은 수분~수십분 지연될 수 있음)
+    - cron: "1 22 * * 0-4"
   workflow_dispatch: {}
 
 permissions:

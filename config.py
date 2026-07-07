@@ -6,10 +6,10 @@ load_dotenv()
 
 TIMEZONE = "Asia/Seoul"
 
-# 수집 대상 시간대: 전일 23:00 ~ 당일 07:30
-WINDOW_START_HOUR = 23
+# 수집 대상 시간대: 전일 19:00 ~ 당일 07:00
+WINDOW_START_HOUR = 19
 WINDOW_END_HOUR = 7
-WINDOW_END_MINUTE = 30
+WINDOW_END_MINUTE = 0
 
 # 텔레그램 메시지에 포함할 웹사이트 주소
 SITE_URL = os.getenv("SITE_URL", "https://imsuviiix.github.io/news_monitor/")
@@ -30,6 +30,9 @@ OUTLETS = [
     {"key": "munhwa", "name": "문화일보", "oid": "021"},
     {"key": "mk", "name": "매일경제", "oid": "009"},
     {"key": "hankyung", "name": "한국경제", "oid": "015"},
+    {"key": "yna", "name": "연합뉴스", "oid": "001"},
+    {"key": "newsis", "name": "뉴시스", "oid": "003"},
+    {"key": "news1", "name": "뉴스1", "oid": "421"},
 ]
 
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
