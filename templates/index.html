@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>사회면 야간 뉴스 브리핑</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header class="page-header">
+    <h1>사회면 야간 뉴스 브리핑</h1>
+    <p class="subtitle">전일 23:00 ~ 당일 07:00 · 10개 언론사 사회면</p>
+  </header>
+
+  {% if dates %}
+  <nav class="date-nav">
+    <a href="{{ url_for('index') }}" class="{{ 'active' if current_date is none else '' }}">최신</a>
+    {% for d in dates %}
+      <a href="{{ url_for('digest_view', date=d) }}" class="{{ 'active' if d == current_date else '' }}">{{ d }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+
+  {% if not digest %}
+    <p class="empty">아직 수집된 뉴스가 없습니다. <code>python run_daily.py</code> 를 먼저 실행해주세요.</p>
+  {% else %}
+    <p class="meta">
+      기준일: {{ digest.date }} ·
+      수집 구간: {{ digest.window_start[11:16] }} ~ {{ digest.window_end[11:16] }} ·
+      생성 시각: {{ digest.generated_at[:16].replace('T', ' ') }}
+    </p>
+
+    <div class="outlet-grid">
+      {% for outlet in digest.outlets %}
+      <section class="outlet-card">
+        <h2>{{ outlet.name }} <span class="count">{{ outlet.count }}</span></h2>
+        {% if outlet.articles %}
+        <ul>
+          {% for a in outlet.articles %}
+          <li>
+            <span class="time">{{ a.published_at[11:16] }}</span>
+            <a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p class="no-articles">수집된 기사가 없습니다.</p>
+        {% endif %}
+      </section>
+      {% endfor %}
+    </div>
+  {% endif %}
+</body>
+</html>
