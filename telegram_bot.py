@@ -18,9 +18,12 @@ def _format_time(iso_str):
 
 
 def build_messages(digest):
+    ws = _format_time(digest["window_start"])
+    we = _format_time(digest["window_end"])
     header = (
         f"\U0001F5DE <b>{digest['date']} 사회면 야간 뉴스 브리핑</b>\n"
-        f"(전일 23:00 ~ 당일 07:00)\n\n"
+        f"(전일 {ws} ~ 당일 {we})\n"
+        f'\U0001F517 <a href="{config.SITE_URL}">웹사이트에서 보기</a>\n\n'
     )
 
     blocks = []

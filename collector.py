@@ -1,4 +1,4 @@
-"""언론사별 사회면 야간 뉴스(전일 23:00~당일 07:00)를 수집해 digest(dict)로 만든다."""
+"""언론사별 사회면 야간 뉴스(전일 23:00~당일 07:30)를 수집해 digest(dict)로 만든다."""
 import json
 import os
 from datetime import datetime, timedelta
@@ -16,7 +16,10 @@ def get_window(reference_time=None):
     """reference_time(기본: 현재 KST) 기준으로 (window_start, window_end)를 계산한다."""
     now = reference_time or datetime.now(KST)
     today = now.date()
-    window_end = datetime(today.year, today.month, today.day, config.WINDOW_END_HOUR, 0, tzinfo=KST)
+    window_end = datetime(
+        today.year, today.month, today.day,
+        config.WINDOW_END_HOUR, getattr(config, "WINDOW_END_MINUTE", 0), tzinfo=KST,
+    )
     yesterday = today - timedelta(days=1)
     window_start = datetime(
         yesterday.year, yesterday.month, yesterday.day, config.WINDOW_START_HOUR, 0, tzinfo=KST

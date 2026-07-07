@@ -6,9 +6,13 @@ load_dotenv()
 
 TIMEZONE = "Asia/Seoul"
 
-# 수집 대상 시간대: 전일 23:00 ~ 당일 07:00
+# 수집 대상 시간대: 전일 23:00 ~ 당일 07:30
 WINDOW_START_HOUR = 23
 WINDOW_END_HOUR = 7
+WINDOW_END_MINUTE = 30
+
+# 텔레그램 메시지에 포함할 웹사이트 주소
+SITE_URL = os.getenv("SITE_URL", "https://imsuviiix.github.io/news_monitor/")
 
 # 네이버뉴스 섹션 코드 (사회)
 SOCIETY_SID = "102"

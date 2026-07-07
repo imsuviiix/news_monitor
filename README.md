@@ -1,7 +1,7 @@
 # 사회면 야간 뉴스 브리핑
 
 조선일보 · 중앙일보 · 동아일보 · 한겨레 · 경향신문 · 한국일보 · 국민일보 · 문화일보 · 매일경제 · 한국경제,
-10개 언론사의 **사회면**에서 **전일 23:00 ~ 당일 07:00** 사이에 올라온 뉴스 헤드라인만 모아
+10개 언론사의 **사회면**에서 **전일 23:00 ~ 당일 07:30** 사이에 올라온 뉴스 헤드라인만 모아
 1) 웹사이트에서 보여주고 2) 텔레그램으로 전송하는 프로젝트입니다.
 
 ## 동작 방식
@@ -9,17 +9,17 @@
 - 각 언론사는 네이버뉴스에 언론사 코드(`oid`)로 등록되어 있고, 네이버뉴스는
   `언론사 + 날짜 + 섹션(사회=102)` 조합으로 그날 그 언론사가 송고한 기사 목록(발행 시각 포함)을
   볼 수 있는 페이지를 제공합니다. `scraper/naver_scraper.py`가 이 페이지를 읽어
-  전일 23:00~당일 07:00 구간에 해당하는 기사만 걸러냅니다.
+  전일 23:00~당일 07:30 구간에 해당하는 기사만 걸러냅니다.
 - `collector.py`가 10개 언론사를 순회하며 수집한 결과를 `data/digest_YYYY-MM-DD.json`,
   `data/latest.json`으로 저장합니다.
 - `app.py`(Flask)가 저장된 digest를 웹페이지로 보여줍니다.
 - `telegram_bot.py`가 digest를 언론사별로 정리해 텔레그램으로 전송합니다.
-- `run_daily.py`가 위 과정을 한 번에 실행하는 진입점이며, 매일 아침 7시 이후 cron/스케줄러로
+- `run_daily.py`가 위 과정을 한 번에 실행하는 진입점이며, 매일 아침 7시 30분 이후 cron/스케줄러로
   실행하는 것을 전제로 만들어졌습니다.
 
 ## 🚀 운영 구성: GitHub Actions + GitHub Pages (서버 불필요, 무료)
 
-`.github/workflows/daily-digest.yml` 워크플로가 **매일 07:05(KST)** 에 자동으로:
+`.github/workflows/daily-digest.yml` 워크플로가 **매일 07:35(KST)** 에 자동으로:
 
 1. 10개 언론사 야간 사회면 뉴스를 수집하고
 2. 텔레그램으로 전송하고
@@ -93,7 +93,7 @@ python build_site.py   # GitHub Pages용 정적 HTML을 site/에 생성
 **cron 사용 (Linux/macOS 서버):**
 
 ```
-5 7 * * * cd /path/to/news_monitor && /path/to/venv/bin/python run_daily.py >> run.log 2>&1
+35 7 * * * cd /path/to/news_monitor && /path/to/venv/bin/python run_daily.py >> run.log 2>&1
 ```
 
 **상시 프로세스로 실행 (systemd 등에 올려두는 경우):**
@@ -102,13 +102,13 @@ python build_site.py   # GitHub Pages용 정적 HTML을 site/에 생성
 python scheduler.py
 ```
 
-매일 07:05(KST)에 자동으로 `run_daily.py`와 동일한 작업을 수행합니다.
+매일 07:35(KST)에 자동으로 `run_daily.py`와 동일한 작업을 수행합니다.
 
 ## 시간 구간 로직
 
-"전일 23:00 ~ 당일 07:00"은 스크립트를 **실행하는 시점의 당일 날짜** 기준으로 계산됩니다
-(`collector.get_window`). 예를 들어 7월 7일 07:05에 실행하면 7월 6일 23:00 ~ 7월 7일 07:00
-구간의 기사를 수집합니다. 따라서 매일 07:00 이후(권장: 07:05)에 실행해야 그날의 창이
+"전일 23:00 ~ 당일 07:30"은 스크립트를 **실행하는 시점의 당일 날짜** 기준으로 계산됩니다
+(`collector.get_window`). 예를 들어 7월 7일 07:35에 실행하면 7월 6일 23:00 ~ 7월 7일 07:30
+구간의 기사를 수집합니다. 따라서 매일 07:30 이후(권장: 07:35)에 실행해야 그날의 창이
 온전히 채워집니다.
 
 ## 디렉터리 구조
@@ -125,7 +125,7 @@ run_daily.py             수집+저장+전송 진입점
 scheduler.py             자체 서버에서 상시 프로세스로 돌리고 싶을 때
 test_sources.py          언론사별 수집 상태 점검 스크립트
 data/                    수집 결과 JSON (저장소에 커밋되어 이력 보존)
-.github/workflows/daily-digest.yml  매일 07:05 자동 수집+전송+배포
+.github/workflows/daily-digest.yml  매일 07:35 자동 수집+전송+배포
 ```
 
 ## 알려진 한계
