@@ -22,7 +22,7 @@ def build_messages(digest):
     we = _format_time(digest["window_end"])
     dedup_note = ""
     if digest.get("dedup_removed"):
-        dedup_note = f"(비슷한 제목의 중복 기사 {digest['dedup_removed']}건 제외)\n"
+        dedup_note = f"(완전히 동일한 중복 기사 {digest['dedup_removed']}건 제외)\n"
     header = (
         f"\U0001F5DE <b>{digest['date']} 사회면 야간 뉴스 브리핑</b>\n"
         f"(전일 {ws} ~ 당일 {we})\n"

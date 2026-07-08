@@ -1,49 +1,41 @@
-"""제목 유사도 기반 중복 기사 제거.
+"""완전 동일 기사(정확히 같은 기사)만 제거한다.
 
-통신사(연합뉴스·뉴시스·뉴스1)는 같은 사건을 거의 동일한 제목으로 각각 송고하고,
-[속보]→[2보]→[종합]처럼 같은 기사의 버전이 여러 번 올라온다.
-config.OUTLETS 순서(신문사 우선)대로 훑으면서, 앞서 이미 남긴 기사와 제목이
-사실상 같은 기사는 제거한다. 즉 신문사 기사가 우선 유지되고 통신사 중복이 빠진다.
+통신사 등에서 똑같은 기사가 목록에 두 번 이상 나타나는 경우가 있다. 이런 "아예
+똑같은 기사"만 걸러낸다. 판단 기준은 다음 중 하나라도 같으면 동일 기사로 본다:
+
+  1) 기사 링크(URL)가 같다  -> 네이버 기사 URL은 언론사+기사 고유번호라 링크가
+     같으면 물리적으로 완전히 같은 기사다.
+  2) 같은 언론사 안에서 제목과 발행 시각이 모두 같다 -> 재송고되며 URL만 새로
+     받은 동일 기사를 잡기 위함.
+
+내용이 비슷하더라도 위 조건에 해당하지 않으면(제목·발행시각·언론사 중 하나라도
+다르면) 서로 다른 기사이므로 절대 제거하지 않는다.
 """
-import re
-from difflib import SequenceMatcher
-
-SIMILARITY_THRESHOLD = 0.8
-
-# [단독], [속보], (종합), 【포토】, <2보> 같은 장식/버전 표기 제거용
-_BRACKET_RE = re.compile(r"[\[(【<][^\])】>]{0,15}[\])】>]")
-_PUNCT_RE = re.compile(r"[^0-9a-zA-Z가-힣]+")
 
 
-def normalize_title(title):
-    text = _BRACKET_RE.sub(" ", title or "")
-    text = _PUNCT_RE.sub(" ", text).lower()
-    return " ".join(text.split())
-
-
-def is_similar(a, b, threshold=SIMILARITY_THRESHOLD):
-    if a == b:
-        return True
-    matcher = SequenceMatcher(None, a, b)
-    # 싼 어림값으로 먼저 거른 뒤에만 정밀 비교 (전체 쌍 비교 비용 절감)
-    if matcher.real_quick_ratio() < threshold or matcher.quick_ratio() < threshold:
-        return False
-    return matcher.ratio() >= threshold
+def _norm(text):
+    return " ".join((text or "").split())
 
 
 def dedupe_outlets(outlets):
-    """outlets(수집 결과 리스트)에서 중복 기사를 제거하고 제거된 건수를 반환한다."""
-    kept_norms = []
+    """완전히 동일한 기사를 제거하고(첫 기사만 유지) 제거된 건수를 반환한다."""
     removed = 0
+    seen_links = set()
     for outlet in outlets:
+        seen_title_time = set()
         kept_articles = []
         for article in outlet["articles"]:
-            norm = normalize_title(article["title"])
-            if norm and any(is_similar(norm, kept) for kept in kept_norms):
+            link = _norm(article.get("link"))
+            title_time = (_norm(article.get("title")), _norm(article.get("published_at")))
+
+            is_dup = (link and link in seen_links) or title_time in seen_title_time
+            if is_dup:
                 removed += 1
                 continue
-            if norm:
-                kept_norms.append(norm)
+
+            if link:
+                seen_links.add(link)
+            seen_title_time.add(title_time)
             kept_articles.append(article)
         outlet["articles"] = kept_articles
         outlet["count"] = len(kept_articles)
