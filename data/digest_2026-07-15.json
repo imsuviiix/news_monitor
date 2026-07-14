@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T07:02:34.249132+09:00",
+  "generated_at": "2026-07-15T08:16:58.100640+09:00",
   "window_start": "2026-07-14T19:00:00+09:00",
   "window_end": "2026-07-15T07:00:00+09:00",
   "date": "2026-07-15",
@@ -248,7 +248,7 @@
           "published_at": "2026-07-15T05:00:02"
         },
         {
-          "title": "[단독] 의사가 없다…불 꺼진 국내 최대 마약병동",
+          "title": "[단독] 부곡병원의 비극…의사 없어 최대 마약병동 불 꺼졌다",
           "link": "https://n.news.naver.com/mnews/article/025/0003537666?sid=102",
           "published_at": "2026-07-15T05:00:03"
         },
@@ -267,7 +267,7 @@
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 59,
+      "count": 60,
       "articles": [
         {
           "title": "3대 6명이 한집 산다고? 노부모 특공 부정청약 딱 걸렸다",
@@ -430,7 +430,7 @@
           "published_at": "2026-07-15T04:34:00"
         },
         {
-          "title": "IT개발자도 고용불안…삼성SDS 등 줄줄이 노조 만들어",
+          "title": "IT개발자도 AI發 고용불안… 이직 대신 줄줄이 노조 만들어",
           "link": "https://n.news.naver.com/mnews/article/020/0003733976?sid=102",
           "published_at": "2026-07-15T04:34:03"
         },
@@ -470,7 +470,7 @@
           "published_at": "2026-07-15T04:34:40"
         },
         {
-          "title": "교원단체 “정서적 학대 기준 모호” 아동학대법 개정 요구",
+          "title": "‘아동학대법 개정론’ 번진 교권침해",
           "link": "https://n.news.naver.com/mnews/article/020/0003733991?sid=102",
           "published_at": "2026-07-15T04:34:43"
         },
@@ -563,6 +563,11 @@
           "title": "[인천판/게시판]인천 外",
           "link": "https://n.news.naver.com/mnews/article/020/0003734025?sid=102",
           "published_at": "2026-07-15T04:36:53"
+        },
+        {
+          "title": "美, 이란 해상봉쇄 전격 재개…호르무즈 요충지 곳곳 공습",
+          "link": "https://n.news.naver.com/mnews/article/020/0003734037?sid=102",
+          "published_at": "2026-07-15T06:47:10"
         }
       ]
     },
@@ -612,7 +617,7 @@
           "published_at": "2026-07-15T05:02:23"
         },
         {
-          "title": "안전 우려에 강원도 5천억원 새 청사 짓는다더니…점검 결과 ‘안전 이상 무’",
+          "title": "김진태가 2천억 늘린 강원도 ‘5천억 새 청사’, 꼭 필요한가?",
           "link": "https://n.news.naver.com/mnews/article/028/0002814160?sid=102",
           "published_at": "2026-07-15T05:02:28"
         },
@@ -1344,7 +1349,7 @@
           "published_at": "2026-07-14T23:50:14"
         },
         {
-          "title": "'논문 조작' 황우석 최고과학기술인상 취소 재추진…수상 22년만",
+          "title": "'논문 조작' 황우석, 최고과학자상 22년 만에 취소되나",
           "link": "https://n.news.naver.com/mnews/article/015/0005310083?sid=102",
           "published_at": "2026-07-15T06:36:10"
         },
@@ -3240,7 +3245,7 @@
           "published_at": "2026-07-15T06:00:00"
         },
         {
-          "title": "서울 재산세 2조 6387억 원 부과…31일까지 500만 건 납부",
+          "title": "서울시, 7월 재산세 2조6387억 원 부과…작년보다 11.7% 증가",
           "link": "https://n.news.naver.com/mnews/article/421/0009059808?sid=102",
           "published_at": "2026-07-15T06:00:00"
         },
