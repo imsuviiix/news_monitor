@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T07:02:19.868039+09:00",
+  "generated_at": "2026-08-03T08:17:31.829186+09:00",
   "window_start": "2026-08-02T19:00:00+09:00",
   "window_end": "2026-08-03T07:00:00+09:00",
   "date": "2026-08-03",
@@ -86,7 +86,7 @@
           "published_at": "2026-08-03T00:51:08"
         },
         {
-          "title": "평균 36세 가장 젊은 부촌으로… 성과급 풀리자 “금 사자” 골드러시",
+          "title": "성과급 풀려 ‘금탄’ 된 동탄… 평균 36세 가장 젊은 부촌",
           "link": "https://n.news.naver.com/mnews/article/023/0003991010?sid=102",
           "published_at": "2026-08-03T00:53:08"
         },
@@ -330,7 +330,7 @@
           "published_at": "2026-08-03T04:32:25"
         },
         {
-          "title": "법원 “병원 과다 수유로 생후 사흘만에 사망… 5억대 배상”",
+          "title": "“병원 과다 수유로 생후 사흘만에 사망… 5억대 배상”",
           "link": "https://n.news.naver.com/mnews/article/020/0003738274?sid=102",
           "published_at": "2026-08-03T04:32:28"
         },
@@ -397,7 +397,7 @@
           "published_at": "2026-08-03T05:02:12"
         },
         {
-          "title": "반노동 논란 ‘메가특구특별법’ 속도 조절…산업부 “노동계 의견 수렴 규제완화 보완”",
+          "title": "반노동 ‘메가특구특별법’ 속도 조절…정부 “노동계 의견 수렴 규제완화 보완”",
           "link": "https://n.news.naver.com/mnews/article/028/0002816840?sid=102",
           "published_at": "2026-08-03T05:02:19"
         },
@@ -407,7 +407,7 @@
           "published_at": "2026-08-03T05:02:22"
         },
         {
-          "title": "“쇼츠 0분 설정하니 뉴스 같은 롱폼만 봤어요”…청소년이 직접 말하는 SNS 탈출법",
+          "title": "청소년 쇼트폼 과몰입…“더 재밌는 거 나올까봐” “멈추려 폰 던졌어요”",
           "link": "https://n.news.naver.com/mnews/article/028/0002816843?sid=102",
           "published_at": "2026-08-03T05:02:26"
         },
@@ -707,69 +707,8 @@
     {
       "key": "munhwa",
       "name": "문화일보",
-      "count": 12,
-      "articles": [
-        {
-          "title": "[속보]다슬기 잡던 60대…괴산 하천서 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808594?sid=102",
-          "published_at": "2026-08-02T19:28:12"
-        },
-        {
-          "title": "발달장애 20대男 현장실습 나갔다가 닷새째…행방묘연, 당국 수색",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808598?sid=102",
-          "published_at": "2026-08-02T20:12:15"
-        },
-        {
-          "title": "[속보]성동구서 외국인여성에 흉기 휘두른 40대 긴급체포",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808599?sid=102",
-          "published_at": "2026-08-02T20:38:18"
-        },
-        {
-          "title": "[속보]평창 국도서 차량 3중 추돌 사고…2명 중상",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808600?sid=102",
-          "published_at": "2026-08-02T21:28:15"
-        },
-        {
-          "title": "‘인서울’ 수시 합격생 내신 평균 등급 5년 새 최고…“올해 더 오를 것”",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808601?sid=102",
-          "published_at": "2026-08-02T21:28:18"
-        },
-        {
-          "title": "[속보]전남광주서 70대 2명 잇따라 숨져…온열질환 추정",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808602?sid=102",
-          "published_at": "2026-08-02T21:37:13"
-        },
-        {
-          "title": "“지옥에나” 돌려차기 피해자, 김용민 SNS에 강한 반발 댓글…이유가",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808603?sid=102",
-          "published_at": "2026-08-02T22:11:13"
-        },
-        {
-          "title": "경북 청도군, 기록적인 폭염 따른 물사용 급증에 결국 3개면 ‘계획 단수’",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808605?sid=102",
-          "published_at": "2026-08-02T23:21:09"
-        },
-        {
-          "title": "트럼프 ‘가자 평화안’ 발표 이틀도 안 돼…이스라엘, 가자 병원 공습",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808609?sid=102",
-          "published_at": "2026-08-03T05:32:17"
-        },
-        {
-          "title": "마포푸르메어린이도서관 새단장…배리어프리 문화공간으로 재개관",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808612?sid=102",
-          "published_at": "2026-08-03T06:37:13"
-        },
-        {
-          "title": "동대문구, 아가사랑센터 긴급 안전점검…공공건축물 안전관리 강화",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808613?sid=102",
-          "published_at": "2026-08-03T06:37:15"
-        },
-        {
-          "title": "강서구 김효진 주무관, 신속한 응급처치로 심정지 주민 CPR로 생명 구해",
-          "link": "https://n.news.naver.com/mnews/article/021/0002808614?sid=102",
-          "published_at": "2026-08-03T06:38:15"
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     {
       "key": "mk",
@@ -855,7 +794,7 @@
           "published_at": "2026-08-02T19:33:16"
         },
         {
-          "title": "단일 레버리지 ETF 여파?…거래소 ETF 상장심사 '병목'",
+          "title": "단일 레버리지 ETF 후폭풍…거래소 ETF 상장심사 '병목'",
           "link": "https://n.news.naver.com/mnews/article/001/0016229500?sid=102",
           "published_at": "2026-08-02T19:33:34"
         },
@@ -1652,12 +1591,12 @@
           "published_at": "2026-08-03T06:49:25"
         },
         {
-          "title": "충북, 한낮 36도 폭염 속 소나기 5~10㎜",
+          "title": "충북, 한낮 37도 폭염 속 소나기 5~10㎜",
           "link": "https://n.news.naver.com/mnews/article/003/0014103766?sid=102",
           "published_at": "2026-08-03T06:57:40"
         },
         {
-          "title": "[오늘의 주요 일정]대구·경북(8월3일 월요일)",
+          "title": "[오늘의 주요일정]대구·경북(8월3일 월요일)",
           "link": "https://n.news.naver.com/mnews/article/003/0014103767?sid=102",
           "published_at": "2026-08-03T06:57:47"
         },
