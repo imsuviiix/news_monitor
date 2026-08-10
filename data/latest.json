@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:02:26.084871+09:00",
+  "generated_at": "2026-08-11T08:02:01.945693+09:00",
   "window_start": "2026-08-10T19:00:00+09:00",
   "window_end": "2026-08-11T07:00:00+09:00",
   "date": "2026-08-11",
@@ -71,7 +71,7 @@
           "published_at": "2026-08-11T00:45:11"
         },
         {
-          "title": "‘폰 없는 학교’가 괴로운 어린이 당뇨 환자들",
+          "title": "‘폰 없는 학교’가 괴로운 미성년 당뇨 환자들",
           "link": "https://n.news.naver.com/mnews/article/023/0003992292?sid=102",
           "published_at": "2026-08-11T00:45:13"
         },
@@ -262,7 +262,7 @@
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 68,
+      "count": 60,
       "articles": [
         {
           "title": "교회서 침대에 묶인채 숨진 11살 아이…두번 탈출에도 경찰은 돌려보냈다",
@@ -335,49 +335,9 @@
           "published_at": "2026-08-11T04:31:12"
         },
         {
-          "title": "여야, 송파 247만장 재검표 시기 또 합의 불발",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739874?sid=102",
-          "published_at": "2026-08-11T04:31:15"
-        },
-        {
-          "title": "오늘 수능 D-100일, 기도하는 母情",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739876?sid=102",
-          "published_at": "2026-08-11T04:31:20"
-        },
-        {
-          "title": "뒤집힌 보트 붙잡고 11시간 사투… 인천 앞바다 낚시객 3명 ‘구사일생’",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739877?sid=102",
-          "published_at": "2026-08-11T04:31:23"
-        },
-        {
-          "title": "시세조종-임금체불 등 맡는 특사경, 82%가 ‘수사경력 3년 미만’[형사사법 대전환, 미완의 출발/⑥]",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739880?sid=102",
-          "published_at": "2026-08-11T04:31:31"
-        },
-        {
-          "title": "[부고]강진국 별세 外",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739882?sid=102",
-          "published_at": "2026-08-11T04:31:36"
-        },
-        {
-          "title": "배우 김지원, 어린이병원 1억 기부",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739883?sid=102",
-          "published_at": "2026-08-11T04:31:38"
-        },
-        {
-          "title": "산업기술기획평가원장 이용필씨",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739884?sid=102",
-          "published_at": "2026-08-11T04:31:40"
-        },
-        {
           "title": "‘암벽등반 이렇게’ 실내 클라이밍 체험",
           "link": "https://n.news.naver.com/mnews/article/020/0003739887?sid=102",
           "published_at": "2026-08-11T04:31:47"
-        },
-        {
-          "title": "마우스 놓고 용접기… 청년 ‘기술직 유턴’",
-          "link": "https://n.news.naver.com/mnews/article/020/0003739890?sid=102",
-          "published_at": "2026-08-11T04:31:55"
         },
         {
           "title": "양천구 장학생 180명 모집… 최대 180만 원 지급",
@@ -652,12 +612,12 @@
           "published_at": "2026-08-11T05:02:14"
         },
         {
-          "title": "[단독] 현장 감독하다 숨진 감리단장…‘시공사와 계약 없다’며 중처법서 빠졌다",
+          "title": "[단독] 현장서 숨진 감리단장…시공사와 계약 없다며 중처법 보호서 빠졌다",
           "link": "https://n.news.naver.com/mnews/article/028/0002817954?sid=102",
           "published_at": "2026-08-11T05:02:30"
         },
         {
-          "title": "‘서·논술형 수능 도입’ 채점 공정성·신뢰성 확보가 첫 과제…세 가지 쟁점 살펴보니",
+          "title": "‘서술·논술형 수능 도입’ 세 가지 쟁점 살펴보니…",
           "link": "https://n.news.naver.com/mnews/article/028/0002817955?sid=102",
           "published_at": "2026-08-11T05:02:33"
         },
@@ -834,7 +794,7 @@
           "published_at": "2026-08-10T22:26:00"
         },
         {
-          "title": "“필라테스 수강생이 재벌가 사람?”…‘탐정 용역비·판사 소개비’ 속여 1억7000만원 뜯어낸 50대 징역 3년",
+          "title": "필라테스서 만나 연인된 ‘재벌가 대기업 본부장’의 정체···1억7000만원 뜯은 사기꾼이었다",
           "link": "https://n.news.naver.com/mnews/article/032/0003463460?sid=102",
           "published_at": "2026-08-11T06:00:04"
         },
@@ -849,7 +809,7 @@
           "published_at": "2026-08-11T06:00:06"
         },
         {
-          "title": "98년생, 평택, 산재 사망…‘애끊는 우연’ 앞에 두 아버지는 같은 마지막을 빌었다[인터뷰]",
+          "title": "98년생·평택·산재 사망 ‘이토록 애끊는 우연’···두 아버지는 같은 마지막을 빌었다[인터뷰]",
           "link": "https://n.news.naver.com/mnews/article/032/0003463457?sid=102",
           "published_at": "2026-08-11T06:00:07"
         },
@@ -1373,7 +1333,7 @@
     {
       "key": "yna",
       "name": "연합뉴스",
-      "count": 65,
+      "count": 57,
       "articles": [
         {
           "title": "\"금 맡기면 배당줄게\" 150억대 사기 혐의 종로 금은방 업주 기소",
@@ -1516,11 +1476,6 @@
           "published_at": "2026-08-11T00:33:18"
         },
         {
-          "title": "트럼프 \"이란, 과거 폭탄테러·시위대 살해 배상하라\" 맞불",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243476?sid=102",
-          "published_at": "2026-08-11T02:29:18"
-        },
-        {
           "title": "평택 위험물 보관창고서 불…대응 2단계 발령 진화 중",
           "link": "https://n.news.naver.com/mnews/article/001/0016243482?sid=102",
           "published_at": "2026-08-11T03:55:35"
@@ -1546,11 +1501,6 @@
           "published_at": "2026-08-11T05:00:01"
         },
         {
-          "title": "평택 위험물 보관창고서 불…국가소방동원령 발령(종합)",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243492?sid=102",
-          "published_at": "2026-08-11T05:06:56"
-        },
-        {
           "title": "국가소방동원령 발령된 평택 위험물 보관창고 화재 현장",
           "link": "https://n.news.naver.com/mnews/article/001/0016243493?sid=102",
           "published_at": "2026-08-11T05:16:01"
@@ -1559,11 +1509,6 @@
           "title": "낮 최고 34도…폭염 꺾여도 수도권·남부 무더위 계속",
           "link": "https://n.news.naver.com/mnews/article/001/0016243496?sid=102",
           "published_at": "2026-08-11T05:24:31"
-        },
-        {
-          "title": "[속보] 평택 위험물 보관창고 화재, 대응 1단계로 하향 조정",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243497?sid=102",
-          "published_at": "2026-08-11T05:31:30"
         },
         {
           "title": "대구·경북 내륙 무더위 계속…낮 최고기온 32도",
@@ -1576,11 +1521,6 @@
           "published_at": "2026-08-11T05:55:00"
         },
         {
-          "title": "'비화폰 전달·정보사 명단 유출' 김용현 前장관, 오늘 2심 첫 재판",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243504?sid=102",
-          "published_at": "2026-08-11T05:55:01"
-        },
-        {
           "title": "축구협회 성 접대에 과거 수사 재조명…공소시효·증거가 핵심",
           "link": "https://n.news.naver.com/mnews/article/001/0016243507?sid=102",
           "published_at": "2026-08-11T06:00:00"
@@ -1589,11 +1529,6 @@
           "title": "위험한 옹벽·담장 보이면 신고하세요…서울시, 보수비 지원",
           "link": "https://n.news.naver.com/mnews/article/001/0016243508?sid=102",
           "published_at": "2026-08-11T06:00:01"
-        },
-        {
-          "title": "울산시, 교통사고 잦은 7곳에 시설 개선…10억원 투입",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243509?sid=102",
-          "published_at": "2026-08-11T06:00:02"
         },
         {
           "title": "대전중수청, 세종시 내 대체 임시청사 확보…입지 논란 '종지부'",
@@ -1619,21 +1554,6 @@
           "title": "킨텍스, 벤처기업부 '민관협력 개방 혁신 지원 사업' 3개 선정",
           "link": "https://n.news.naver.com/mnews/article/001/0016243518?sid=102",
           "published_at": "2026-08-11T06:00:06"
-        },
-        {
-          "title": "임금근로자 8명 중 1명은 '최저임금 미만'…임시직은 39%",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243520?sid=102",
-          "published_at": "2026-08-11T06:01:02"
-        },
-        {
-          "title": "대전·세종·충남 더위 이어져…낮 최고기온 34도",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243523?sid=102",
-          "published_at": "2026-08-11T06:05:15"
-        },
-        {
-          "title": "트럼프 \"호르무즈 기뢰 모두 제거…美, 유일하게 해협통제\" 주장(종합)",
-          "link": "https://n.news.naver.com/mnews/article/001/0016243524?sid=102",
-          "published_at": "2026-08-11T06:05:19"
         },
         {
           "title": "상장폐지 기준 강화 한달…상장사 7.4% 시가총액 기준 미달",
@@ -1903,7 +1823,7 @@
           "published_at": "2026-08-11T00:00:00"
         },
         {
-          "title": "[오늘의 주요일정]대전·세종·충남(8월11일 화요일))",
+          "title": "[오늘의 주요일정]대전·세종·충남(8월11일 화요일)",
           "link": "https://n.news.naver.com/mnews/article/003/0014118905?sid=102",
           "published_at": "2026-08-11T00:00:00"
         },
@@ -2595,7 +2515,7 @@
           "published_at": "2026-08-11T06:30:00"
         },
         {
-          "title": "평택 '위험물 창고' 불 대규모 피해 우려…4류 위험물 100여종 보관",
+          "title": "117억 원 피해 고양 저유소 악몽…평택서 되살아난 위험물 공포",
           "link": "https://n.news.naver.com/mnews/article/421/0009106762?sid=102",
           "published_at": "2026-08-11T06:30:52"
         },
