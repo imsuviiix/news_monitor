@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:02:47.917707+09:00",
+  "generated_at": "2026-08-14T08:08:15.840130+09:00",
   "window_start": "2026-08-13T19:00:00+09:00",
   "window_end": "2026-08-14T07:00:00+09:00",
   "date": "2026-08-14",
@@ -228,7 +228,7 @@
           "published_at": "2026-08-14T00:45:28"
         },
         {
-          "title": "3년 만에 끝난 결혼…강유미 “그때도 각방, 이혼은 나로 족해”",
+          "title": "3년 만에 끝난 결혼…강유미 “신혼부터 각방, 이혼은 나로 족해”",
           "link": "https://n.news.naver.com/mnews/article/025/0003544357?sid=102",
           "published_at": "2026-08-14T01:05:10"
         },
@@ -257,7 +257,7 @@
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 34,
+      "count": 33,
       "articles": [
         {
           "title": "SK하이닉스 통합노조 공식 출범…생산·기술·사무직 포함",
@@ -403,11 +403,6 @@
           "title": "형소법 절차 늘었는데… 피해자 법률 지원할 국선변호사는 태부족[형사사법 대전환, 미완의 출발/⑨]",
           "link": "https://n.news.naver.com/mnews/article/020/0003740859?sid=102",
           "published_at": "2026-08-14T04:34:47"
-        },
-        {
-          "title": "“月 1만원에 지방 창업처럼 주소 등록”… 세금감면 혜택 악용 늘어",
-          "link": "https://n.news.naver.com/mnews/article/020/0003740860?sid=102",
-          "published_at": "2026-08-14T04:34:49"
         },
         {
           "title": "‘여교사 몰카’ 10대 아들 휴대폰 부순 경찰 불송치",
@@ -634,7 +629,7 @@
           "published_at": "2026-08-14T06:00:01"
         },
         {
-          "title": "워터파크 대신 실내로 가야하나···광복절 연휴 전국 비, 끝나면 더 독한 ‘찜통더위’ 온다",
+          "title": "야외 피서 접고 영화관이나 갈까···광복절 연휴 전국 비, 끝나면 더 독한 ‘찜통더위’ 온다",
           "link": "https://n.news.naver.com/mnews/article/032/0003464203?sid=102",
           "published_at": "2026-08-14T06:00:02"
         },
@@ -1548,7 +1543,7 @@
           "published_at": "2026-08-14T05:00:00"
         },
         {
-          "title": "한강 수영장, 성범죄 골치…시민들 \"홍보물로 되겠나, 순찰 필요\"",
+          "title": "한강 수영장, 성범죄 골치…홍보물 설치로 경각심 높인 경찰",
           "link": "https://n.news.naver.com/mnews/article/003/0014126937?sid=102",
           "published_at": "2026-08-14T05:00:00"
         },
@@ -1762,7 +1757,7 @@
     {
       "key": "news1",
       "name": "뉴스1",
-      "count": 57,
+      "count": 65,
       "articles": [
         {
           "title": "전남광주, 위안부 기림의 날 기념식…\"용기 있는 증언이 평화와 연대로\"",
@@ -1870,6 +1865,11 @@
           "published_at": "2026-08-14T00:00:00"
         },
         {
+          "title": "美 '중국 불법환적 고위험국'에 한국 포함…경기 반도체 벨트 지목",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113375?sid=102",
+          "published_at": "2026-08-14T00:05:54"
+        },
+        {
           "title": "[오늘의 주요일정] 경기(14일, 금)",
           "link": "https://n.news.naver.com/mnews/article/421/0009113415?sid=102",
           "published_at": "2026-08-14T05:00:00"
@@ -1915,8 +1915,23 @@
           "published_at": "2026-08-14T05:00:00"
         },
         {
+          "title": "[오늘의 날씨] 전북(14일, 금)…곳에 따라 소나기, 체감온도 33도",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113403?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
+          "title": "[오늘의 날씨] 충북·세종(14일, 금)…흐리고 일부 소나기",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113402?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
           "title": "[오늘의 날씨] 강원(14일, 금)…흐리고 동해안·산지에 최대 50㎜ 비",
           "link": "https://n.news.naver.com/mnews/article/421/0009113401?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
+          "title": "[오늘의 날씨] 경기(14일, 금)…\"흐린 날씨 속 소나기\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113400?sid=102",
           "published_at": "2026-08-14T05:00:00"
         },
         {
@@ -1925,8 +1940,28 @@
           "published_at": "2026-08-14T05:00:00"
         },
         {
+          "title": "친정 찾아 '부동산 협공' 오세훈…장동혁은 밀양 '가뭄 피해' 현장으로",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113397?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
+          "title": "[오늘의 주요일정] 전남광주(14일, 금)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113396?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
           "title": "[오늘의 날씨]제주(14일, 금)…흐리고 오후 늦게 산지 비",
           "link": "https://n.news.naver.com/mnews/article/421/0009113395?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
+          "title": "\"난 생활비 댔는데 융자 갚은 남편…5억 아파트 2배 뛰자 '내 집' 주장\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113394?sid=102",
+          "published_at": "2026-08-14T05:00:00"
+        },
+        {
+          "title": "[오늘의 주요 일정] 대전·충남(14일, 금)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009113393?sid=102",
           "published_at": "2026-08-14T05:00:00"
         },
         {
