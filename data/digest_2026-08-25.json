@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:02:45.373205+09:00",
+  "generated_at": "2026-08-25T07:48:58.073339+09:00",
   "window_start": "2026-08-24T19:00:00+09:00",
   "window_end": "2026-08-25T07:00:00+09:00",
   "date": "2026-08-25",
@@ -131,7 +131,7 @@
           "published_at": "2026-08-25T00:56:14"
         },
         {
-          "title": "[더 한장]북소리와 함께 용의 질주가 시작된다",
+          "title": "[더 한장] 북소리와 함께 용의 질주가 시작된다",
           "link": "https://n.news.naver.com/mnews/article/023/0003994730?sid=102",
           "published_at": "2026-08-25T06:01:12"
         }
@@ -520,7 +520,7 @@
           "published_at": "2026-08-25T04:32:04"
         },
         {
-          "title": "수원 만석공원은 공연장… 일월수목원은 탐험장 된다",
+          "title": "수원 만석공원은 공연장, 일월수목원은 탐험장 된다",
           "link": "https://n.news.naver.com/mnews/article/020/0003743041?sid=102",
           "published_at": "2026-08-25T04:32:06"
         },
@@ -777,7 +777,7 @@
           "published_at": "2026-08-25T05:04:11"
         },
         {
-          "title": "나무 그늘 확보엔 양버즘나무가 최고지만…",
+          "title": "‘숲 지붕’ 넒은 양버즘나무 사라지고…꽃놀이용 이팝·벚나무만 급증",
           "link": "https://n.news.naver.com/mnews/article/028/0002819967?sid=102",
           "published_at": "2026-08-25T05:04:18"
         }
@@ -1541,7 +1541,7 @@
     {
       "key": "hankyung",
       "name": "한국경제",
-      "count": 14,
+      "count": 15,
       "articles": [
         {
           "title": "제주 왜 이러나…실종자 추정 시신 사흘 새 4명 발견",
@@ -1599,7 +1599,7 @@
           "published_at": "2026-08-24T22:54:19"
         },
         {
-          "title": "의원도 시민도 갈등 폭발…당진 뒤흔든 '530억 사업' 정체",
+          "title": "'현금성 민생지원금' 놓고 지자체·의회 충돌",
           "link": "https://n.news.naver.com/mnews/article/015/0005324242?sid=102",
           "published_at": "2026-08-25T06:01:20"
         },
@@ -1612,6 +1612,11 @@
           "title": "장미란씨 유족 \"국가배상 검토\"…논란 커지자 글 삭제",
           "link": "https://n.news.naver.com/mnews/article/015/0005324244?sid=102",
           "published_at": "2026-08-25T06:01:25"
+        },
+        {
+          "title": "현대차 임협 111일 만에 잠정합의…성과금 '400%+1270만원'",
+          "link": "https://n.news.naver.com/mnews/article/015/0005324253?sid=102",
+          "published_at": "2026-08-25T06:37:13"
         }
       ]
     },
@@ -2513,7 +2518,7 @@
           "published_at": "2026-08-25T06:07:40"
         },
         {
-          "title": "[오늘의 주요일정]강원(08월25일 화요일)",
+          "title": "[오늘의 주요일정]강원(8월25일 화요일)",
           "link": "https://n.news.naver.com/mnews/article/003/0014145366?sid=102",
           "published_at": "2026-08-25T06:07:48"
         },
