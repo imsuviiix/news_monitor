@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:02:43.961410+09:00",
+  "generated_at": "2026-09-01T10:20:34.817758+09:00",
   "window_start": "2026-08-31T19:00:00+09:00",
   "window_end": "2026-09-01T07:00:00+09:00",
   "date": "2026-09-01",
@@ -313,7 +313,7 @@
           "published_at": "2026-09-01T05:00:00"
         },
         {
-          "title": "[단독] “월급 3300만원”에 드디어 모셨다…은퇴의사 쩐의 전쟁",
+          "title": "[단독] “월급 3300만원” 드디어 모셨다…은퇴의사 ‘쩐의 전쟁’",
           "link": "https://n.news.naver.com/mnews/article/025/0003548140?sid=102",
           "published_at": "2026-09-01T05:00:01"
         },
@@ -787,17 +787,17 @@
           "published_at": "2026-09-01T01:32:06"
         },
         {
-          "title": "“성소수자 밖에 나오지 마라” 혐오 가르치는 교실",
+          "title": "“성소수자 밖에 나오지 마라”…교사가 혐오 가르치는 교실",
           "link": "https://n.news.naver.com/mnews/article/028/0002821043?sid=102",
           "published_at": "2026-09-01T05:02:25"
         },
         {
-          "title": "11년째 매달 학부모에 편지…‘신뢰 쌓는 소통’ 범준쌤의 진심",
+          "title": "11년째 매달 학부모에 편지…“신뢰 쌓는 소통” 범준쌤의 진심",
           "link": "https://n.news.naver.com/mnews/article/028/0002821044?sid=102",
           "published_at": "2026-09-01T05:02:28"
         },
         {
-          "title": "고소장 없애고 피의자 신분 바꿔 사건 덮은 경찰들…“사건 종결 권한 검증 장치 필요”",
+          "title": "고소장·진술조서 없애고, 피의자 바꾸고…‘거짓말’로 사건 덮은 경찰들",
           "link": "https://n.news.naver.com/mnews/article/028/0002821048?sid=102",
           "published_at": "2026-09-01T05:02:38"
         },
@@ -1029,7 +1029,7 @@
           "published_at": "2026-09-01T06:00:04"
         },
         {
-          "title": "처방약으로 시작, 필로폰까지 갔다···그날 이후, 엄마는 자꾸 딸을 잃어버린다[끊는 사람들①]",
+          "title": "그날 이후, 엄마는 자꾸 딸을 잃어버린다[끊는 사람들①]",
           "link": "https://n.news.naver.com/mnews/article/032/0003467634?sid=102",
           "published_at": "2026-09-01T06:00:07"
         }
@@ -1086,7 +1086,7 @@
           "published_at": "2026-08-31T23:01:08"
         },
         {
-          "title": "23년 전 노무현은 대법원장 제청을 왜 받아들였나… '盧의 입'이 말한 진짜 '盧 정신' [인터뷰]",
+          "title": "\"다시 대통령 출마할 수 없다\" 연임에 선 그었던 노무현, 이재명과 뭐가 달랐나 [인터뷰]",
           "link": "https://n.news.naver.com/mnews/article/469/0000951311?sid=102",
           "published_at": "2026-09-01T04:30:08"
         },
@@ -1146,7 +1146,7 @@
           "published_at": "2026-09-01T04:32:04"
         },
         {
-          "title": "'웃으면 복이와요' 원로 코미디언 유성 별세…향년 88세",
+          "title": "'웃으면 복이와요' 원로 코미디언 유성 별세… 향년 88세",
           "link": "https://n.news.naver.com/mnews/article/469/0000951336?sid=102",
           "published_at": "2026-09-01T06:53:11"
         }
@@ -1374,7 +1374,7 @@
     {
       "key": "mk",
       "name": "매일경제",
-      "count": 11,
+      "count": 12,
       "articles": [
         {
           "title": "여장 뒤 감춰졌던 얼굴…‘유학생 살해’ 중국인 대학강사 내일 신상공개",
@@ -1430,6 +1430,11 @@
           "title": "“원단회사 사장님 사업수완 대단하네” 했더니…밤마다 1200억 도박판",
           "link": "https://n.news.naver.com/mnews/article/009/0005728400?sid=102",
           "published_at": "2026-09-01T06:03:11"
+        },
+        {
+          "title": "‘성과금 400%+1270만원’…현대차, 3달 넘게 이어온 노사협상 끝내",
+          "link": "https://n.news.naver.com/mnews/article/009/0005728402?sid=102",
+          "published_at": "2026-09-01T06:42:11"
         }
       ]
     },
@@ -2373,7 +2378,7 @@
           "published_at": "2026-09-01T06:50:53"
         },
         {
-          "title": "현대차 노사, 올해 임금협상 최종 타결…찬반투표 가결",
+          "title": "현대차 노사, 임금협상 최종 타결…찬성 61.5%",
           "link": "https://n.news.naver.com/mnews/article/003/0014159987?sid=102",
           "published_at": "2026-09-01T06:51:50"
         }
@@ -2382,7 +2387,7 @@
     {
       "key": "news1",
       "name": "뉴스1",
-      "count": 132,
+      "count": 139,
       "articles": [
         {
           "title": "커지는 경찰 수사권…\"국가경찰위 실질화·경찰청장 외부개방 필요\"(종합)",
@@ -2515,14 +2520,54 @@
           "published_at": "2026-08-31T19:23:16"
         },
         {
+          "title": "빠르게 돌파하는 유기상",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142457?sid=102",
+          "published_at": "2026-08-31T19:23:18"
+        },
+        {
+          "title": "슛 하는 이우석",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142458?sid=102",
+          "published_at": "2026-08-31T19:23:42"
+        },
+        {
+          "title": "SK오션플랜트 결국 매각…경남 고성군 \"기회발전특구 해제 검토\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142459?sid=102",
+          "published_at": "2026-08-31T19:24:25"
+        },
+        {
           "title": "단독 찬스 이현중",
           "link": "https://n.news.naver.com/mnews/article/421/0009142460?sid=102",
           "published_at": "2026-08-31T19:24:31"
         },
         {
+          "title": "조희대 대법원장, 김상환 헌재소장 배웅",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142461?sid=102",
+          "published_at": "2026-08-31T19:25:04"
+        },
+        {
+          "title": "\"너무 놀라고 안타까워\" 청주 아파트 흉기 사건에 주민 '충격'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142463?sid=102",
+          "published_at": "2026-08-31T19:31:56"
+        },
+        {
+          "title": "슛하는 장재석",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142464?sid=102",
+          "published_at": "2026-08-31T19:32:30"
+        },
+        {
+          "title": "슛하는 장재석",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142465?sid=102",
+          "published_at": "2026-08-31T19:32:32"
+        },
+        {
           "title": "조희대 대법원장 부친 빈소 찾은 정점식 국힘 원내대표",
           "link": "https://n.news.naver.com/mnews/article/421/0009142466?sid=102",
           "published_at": "2026-08-31T19:32:53"
+        },
+        {
+          "title": "돌파하는 에디 다니엘",
+          "link": "https://n.news.naver.com/mnews/article/421/0009142467?sid=102",
+          "published_at": "2026-08-31T19:34:02"
         },
         {
           "title": "돌파하는 에디 다니엘",
@@ -2967,11 +3012,6 @@
         {
           "title": "[8·3 세제개편 한 달]① 강남 매물 10%↑…외곽은 '15억 키 맞추기'",
           "link": "https://n.news.naver.com/mnews/article/421/0009142628?sid=102",
-          "published_at": "2026-09-01T05:30:00"
-        },
-        {
-          "title": "할인 행사 중인데…버거킹 찾은 할아버지에게 \"끝났다\" 거짓말한 직원",
-          "link": "https://n.news.naver.com/mnews/article/421/0009142624?sid=102",
           "published_at": "2026-09-01T05:30:00"
         },
         {
