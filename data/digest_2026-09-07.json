@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:02:31.367523+09:00",
+  "generated_at": "2026-09-07T09:04:29.905170+09:00",
   "window_start": "2026-09-06T19:00:00+09:00",
   "window_end": "2026-09-07T07:00:00+09:00",
   "date": "2026-09-07",
@@ -183,7 +183,7 @@
           "published_at": "2026-09-07T05:00:01"
         },
         {
-          "title": "운하 지나는데 “71억 내라”…韓 LNG선 덮친 ‘엘니뇨 나비효과’",
+          "title": "운하 지나는데 “71억 내라”…韓 LPG선 덮친 ‘엘니뇨 나비효과’",
           "link": "https://n.news.naver.com/mnews/article/025/0003549487?sid=102",
           "published_at": "2026-09-07T05:00:02"
         },
@@ -203,7 +203,7 @@
           "published_at": "2026-09-07T06:00:00"
         },
         {
-          "title": "100만 인파 몰린 세계 불꽃축제 안방 직관한 스타들",
+          "title": "100만 인파 뚫을 필요 없네…안방서 ‘불꽃 직관’ 인증한 스타들",
           "link": "https://n.news.naver.com/mnews/article/025/0003549517?sid=102",
           "published_at": "2026-09-07T06:47:31"
         }
@@ -240,7 +240,7 @@
           "published_at": "2026-09-07T04:32:20"
         },
         {
-          "title": "[단독]전공과목 떠난 필수의료 전문의, 23%가 정형외과 근무",
+          "title": "[단독]필수의료 떠난 전문의, 23%가 정형외과로 몰렸다",
           "link": "https://n.news.naver.com/mnews/article/020/0003746094?sid=102",
           "published_at": "2026-09-07T04:32:22"
         },
@@ -651,7 +651,7 @@
           "published_at": "2026-09-07T04:31:49"
         },
         {
-          "title": "3년 동안 눈동자로 나눈 '스무고개'… 책으로 완성된 그들의 특별한 이야기 [人터뷰]",
+          "title": "눈을 위로 뜨면 '네', 아래로 뜨면.... 눈동자로 '스무고개' 3년, 그들의 특별한 이야기 [人터뷰]",
           "link": "https://n.news.naver.com/mnews/article/469/0000952442?sid=102",
           "published_at": "2026-09-07T04:31:53"
         },
@@ -868,8 +868,13 @@
     {
       "key": "yna",
       "name": "연합뉴스",
-      "count": 58,
+      "count": 60,
       "articles": [
+        {
+          "title": "현장 수습 중인 한국 해외긴급구호대",
+          "link": "https://n.news.naver.com/mnews/article/001/0016292912?sid=102",
+          "published_at": "2026-09-06T19:01:56"
+        },
         {
           "title": "현장 수습 중인 한국 해외긴급구호대",
           "link": "https://n.news.naver.com/mnews/article/001/0016292913?sid=102",
@@ -894,6 +899,11 @@
           "title": "오세훈 시장, 서울런 5주년 성과 공유회",
           "link": "https://n.news.naver.com/mnews/article/001/0016292941?sid=102",
           "published_at": "2026-09-06T19:51:47"
+        },
+        {
+          "title": "[날씨] 전국 대체로 맑아…강원·경상권은 흐리고 비",
+          "link": "https://n.news.naver.com/mnews/article/001/0016292942?sid=102",
+          "published_at": "2026-09-06T20:00:00"
         },
         {
           "title": "'빛으로 물든 대릉원의 밤'",
@@ -1101,7 +1111,7 @@
           "published_at": "2026-09-07T06:01:01"
         },
         {
-          "title": "AI 허위정보 확산하는데…국내 팩트체크 기관은 단 2곳",
+          "title": "방미통위, 투명성센터 예산 24억여원 편성…민간 검증역량 강화",
           "link": "https://n.news.naver.com/mnews/article/001/0016293066?sid=102",
           "published_at": "2026-09-07T06:03:01"
         },
