@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:02:17.218056+09:00",
+  "generated_at": "2026-09-28T09:55:04.255487+09:00",
   "window_start": "2026-09-27T19:00:00+09:00",
   "window_end": "2026-09-28T07:00:00+09:00",
   "date": "2026-09-28",
@@ -143,7 +143,7 @@
           "published_at": "2026-09-28T00:02:01"
         },
         {
-          "title": "“약국의 배민화 절대 안 돼” 약사 1만명 거리 뛰쳐나왔다",
+          "title": "“약국 배민화 절대 안돼”…약사 1만명 광화문 뛰쳐나왔다",
           "link": "https://n.news.naver.com/mnews/article/025/0003554099?sid=102",
           "published_at": "2026-09-28T05:00:00"
         },
@@ -207,7 +207,7 @@
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 55,
+      "count": 54,
       "articles": [
         {
           "title": "지하철서 신체 밀착에 주요부위 노출…전 국가대표 수구선수 벌금형",
@@ -275,7 +275,7 @@
           "published_at": "2026-09-28T04:31:40"
         },
         {
-          "title": "교황, 18년만에 프랑스 방문…샹젤리제 거리 미사에 80만명 운집",
+          "title": "교황, 18년만에 프랑스 방문… 샹젤리제 거리 미사에 80만명 운집",
           "link": "https://n.news.naver.com/mnews/article/020/0003750873?sid=102",
           "published_at": "2026-09-28T04:31:42"
         },
@@ -435,7 +435,7 @@
           "published_at": "2026-09-28T04:33:43"
         },
         {
-          "title": "5년간 2.7조… 퇴직자 재취업 업체에 일감 24% 준 코레일",
+          "title": "[단독]5년간 2.7조… 퇴직자 재취업 업체에 일감 24% 준 코레일",
           "link": "https://n.news.naver.com/mnews/article/020/0003750922?sid=102",
           "published_at": "2026-09-28T04:33:45"
         },
@@ -470,17 +470,12 @@
           "published_at": "2026-09-28T04:34:00"
         },
         {
-          "title": "김현지 제1부속실장 부친상… 靑에도 안알려",
-          "link": "https://n.news.naver.com/mnews/article/020/0003750930?sid=102",
-          "published_at": "2026-09-28T04:34:06"
-        },
-        {
           "title": "“내집에서 몰래 애정행각” 여동생 남친에 너클 던진 20대",
           "link": "https://n.news.naver.com/mnews/article/020/0003750935?sid=102",
           "published_at": "2026-09-28T06:05:11"
         },
         {
-          "title": "추석연휴 음주후 말다툼하다…노모 살해 50대 中여성 구속",
+          "title": "추석연휴 술 마시고 말다툼하다…노모 살해 50대 中여성 구속",
           "link": "https://n.news.naver.com/mnews/article/020/0003750936?sid=102",
           "published_at": "2026-09-28T06:10:11"
         }
@@ -512,32 +507,32 @@
           "published_at": "2026-09-27T23:52:16"
         },
         {
-          "title": "네팔 대홍수 피해 탄소 배출국 ‘책임액’ 미·중 압도적…국가간 소송은 미지수",
+          "title": "네팔 대홍수, 탄소 배출국 ‘책임액’ 미·중 압도적…국가간 소송은 미지수",
           "link": "https://n.news.naver.com/mnews/article/028/0002824861?sid=102",
           "published_at": "2026-09-28T05:02:17"
         },
         {
-          "title": "[단독] 국내 대기오염물질 배출사업장 정보, 40%가 ‘중복’",
+          "title": "[단독] 정부 대기오염물질 배출사업장 정보, 40%가 ‘중복’",
           "link": "https://n.news.naver.com/mnews/article/028/0002824864?sid=102",
           "published_at": "2026-09-28T05:02:26"
         },
         {
-          "title": "우리가 아는 제철, 상식을 뒤집다",
+          "title": "봄엔 암게, 가을엔 수게?…우리가 아는 제철, 상식을 뒤집다",
           "link": "https://n.news.naver.com/mnews/article/028/0002824865?sid=102",
           "published_at": "2026-09-28T05:02:28"
         },
         {
-          "title": "[현장] 100년 다리 ‘휘청’ 지자체 허리 휜다… 이동편의·예산부담 딜레마",
+          "title": "100년 된 다리 딜레마…지자체 이동편의·예산 사이서 고심 [현장]",
           "link": "https://n.news.naver.com/mnews/article/028/0002824866?sid=102",
           "published_at": "2026-09-28T05:02:31"
         },
         {
-          "title": "공공부문, 노란봉투법에 따른 ‘교섭’ 민간의 절반…이름뿐인 ‘모범사용자’",
+          "title": "공공부문, 노란봉투법 따른 ‘교섭’ 민간의 절반…‘법 해석지침’이 가로막아",
           "link": "https://n.news.naver.com/mnews/article/028/0002824868?sid=102",
           "published_at": "2026-09-28T05:02:38"
         },
         {
-          "title": "[단독]육본 군종 대령 ‘부하 괴롭힘’ 등 의혹으로 징계 뒤 전역",
+          "title": "[단독] 육본 군종 대령, ‘부하 성희롱·폭행’ 징계 뒤 전역",
           "link": "https://n.news.naver.com/mnews/article/028/0002824869?sid=102",
           "published_at": "2026-09-28T05:02:40"
         }
@@ -994,7 +989,7 @@
           "published_at": "2026-09-27T19:44:14"
         },
         {
-          "title": "의사에 '월 1000만원' 줬다가…\"1.4억 날려\" 분통 터진 사연 [사장님 고충백서]",
+          "title": "매달 113만원씩 퇴직금 미리 줬다가…\"1.4억 날렸다\" 분통 [사장님 고충백서]",
           "link": "https://n.news.naver.com/mnews/article/015/0005336416?sid=102",
           "published_at": "2026-09-28T06:01:12"
         }
@@ -1300,7 +1295,7 @@
     {
       "key": "newsis",
       "name": "뉴시스",
-      "count": 58,
+      "count": 59,
       "articles": [
         {
           "title": "음성 버스 연료탱크서 CNG 누출…인명 피해 없어",
@@ -1545,6 +1540,11 @@
         {
           "title": "[오늘의 주요일정]기후에너지환경부(9월28일월요일)",
           "link": "https://n.news.naver.com/mnews/article/003/0014216406?sid=102",
+          "published_at": "2026-09-28T06:00:00"
+        },
+        {
+          "title": "'국감의 시간' 개인정보 유출·홈플러스 회생·담합 등 유통·식품업계 '촉각'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014216405?sid=102",
           "published_at": "2026-09-28T06:00:00"
         },
         {
@@ -1840,12 +1840,12 @@
           "published_at": "2026-09-28T06:10:01"
         },
         {
-          "title": "성평등부 세종 이전 밑그림…이르면 내년 중순·임차청사 거론",
+          "title": "성평등부 세종 이전 밑그림…이르면 내년 여름·임차청사 거론",
           "link": "https://n.news.naver.com/mnews/article/421/0009194094?sid=102",
           "published_at": "2026-09-28T06:20:00"
         },
         {
-          "title": "[단독] 취업난에 서울대생도 졸업 미뤘다…\"'초과학기생' 600명 넘어\"",
+          "title": "[단독] 취업난에 서울대생도 졸업 미뤘다…\"'초과 학기생' 600명 넘어\"",
           "link": "https://n.news.naver.com/mnews/article/421/0009194093?sid=102",
           "published_at": "2026-09-28T06:20:00"
         },
