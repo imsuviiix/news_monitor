@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:02:34.242186+09:00",
+  "generated_at": "2026-09-30T10:22:30.083786+09:00",
   "window_start": "2026-09-29T19:00:00+09:00",
   "window_end": "2026-09-30T07:00:00+09:00",
   "date": "2026-09-30",
@@ -36,7 +36,7 @@
           "published_at": "2026-09-30T00:46:17"
         },
         {
-          "title": "사라졌던 노동단체 보조금 다시 생겼다",
+          "title": "[단독] 사라졌던 노동단체 보조금 다시 생겼다",
           "link": "https://n.news.naver.com/mnews/article/023/0004001185?sid=102",
           "published_at": "2026-09-30T00:46:19"
         },
@@ -213,7 +213,7 @@
           "published_at": "2026-09-30T00:53:08"
         },
         {
-          "title": "유재석도 초대 못 받아, 변요한·티파니영 가족과 ‘비밀 결혼식’",
+          "title": "유재석도 초대 못 받았다…변요한·티파니 ‘비밀 결혼식’",
           "link": "https://n.news.naver.com/mnews/article/025/0003554667?sid=102",
           "published_at": "2026-09-30T01:01:12"
         },
@@ -228,7 +228,7 @@
           "published_at": "2026-09-30T01:54:05"
         },
         {
-          "title": "이치로 승부 다음날 감독 만났다…임창용 “함구하겠다” 왜",
+          "title": "“이치로 거르라고 사인 냈는데”…17년전 진실, 임창용 입 열다",
           "link": "https://n.news.naver.com/mnews/article/025/0003554690?sid=102",
           "published_at": "2026-09-30T05:00:00"
         },
@@ -238,7 +238,7 @@
           "published_at": "2026-09-30T05:00:00"
         },
         {
-          "title": "[단독] “기형적이고 비효율적”…공소청 4주 시범운영서 드러난 허점",
+          "title": "[단독] 공소청 4주 시범운영 해보니…“검사 면담, 보완수사 요구에 활용”",
           "link": "https://n.news.naver.com/mnews/article/025/0003554682?sid=102",
           "published_at": "2026-09-30T05:00:00"
         },
@@ -258,7 +258,7 @@
           "published_at": "2026-09-30T05:00:02"
         },
         {
-          "title": "“실패한 분 우대합니다”…55년 만에 복간 ‘사상계’ 이색 채용",
+          "title": "“실패한 분 우대합니다” 희한한 패자부활전…이색 채용 띄운 이곳",
           "link": "https://n.news.naver.com/mnews/article/025/0003554691?sid=102",
           "published_at": "2026-09-30T05:00:02"
         },
@@ -322,7 +322,7 @@
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 63,
+      "count": 64,
       "articles": [
         {
           "title": "北 통일방안 얘기한 외삼촌 신고 안한 죄…53년만에 재심서 무죄",
@@ -430,7 +430,7 @@
           "published_at": "2026-09-30T04:34:12"
         },
         {
-          "title": "[인사]법무부 外",
+          "title": "[인사]법무부",
           "link": "https://n.news.naver.com/mnews/article/020/0003751556?sid=102",
           "published_at": "2026-09-30T04:34:14"
         },
@@ -450,7 +450,7 @@
           "published_at": "2026-09-30T04:34:21"
         },
         {
-          "title": "韓 대학생 1인당 공교육비… OECD 평균보다 28% 적어",
+          "title": "韓 대학생 1인당 공교육비, OECD 평균보다 28% 적어",
           "link": "https://n.news.naver.com/mnews/article/020/0003751560?sid=102",
           "published_at": "2026-09-30T04:34:24"
         },
@@ -535,7 +535,7 @@
           "published_at": "2026-09-30T04:35:26"
         },
         {
-          "title": "[대구판/게시판]대구 外",
+          "title": "[대구판/게시판]대구",
           "link": "https://n.news.naver.com/mnews/article/020/0003751586?sid=102",
           "published_at": "2026-09-30T04:35:28"
         },
@@ -553,6 +553,11 @@
           "title": "[대덕연구개발특구 소식]세계 원자력 전문가들, 한국서 원자로 노화관리 훈련",
           "link": "https://n.news.naver.com/mnews/article/020/0003751589?sid=102",
           "published_at": "2026-09-30T04:35:35"
+        },
+        {
+          "title": "폭발현장에 北지뢰 최소 4개… “유실 지뢰 가능성 매우 작다”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003751595?sid=102",
+          "published_at": "2026-09-30T04:35:57"
         },
         {
           "title": "젠슨 황 시상식서 ‘깐부 회동’ 다시 뭉쳤다",
@@ -635,7 +640,7 @@
           "published_at": "2026-09-30T04:37:31"
         },
         {
-          "title": "[속보]김여정 ‘DMZ 北지뢰’에 “서울의 자작광대극” 부인",
+          "title": "김여정 ‘DMZ 北지뢰’에 “서울의 자작광대극” 부인",
           "link": "https://n.news.naver.com/mnews/article/020/0003751633?sid=102",
           "published_at": "2026-09-30T06:39:10"
         }
@@ -677,17 +682,17 @@
           "published_at": "2026-09-29T19:24:16"
         },
         {
-          "title": "[단독] 데이터센터로 늘어난 ‘원전 29기’ 규모 도심 비상발전기… 관리는 사각",
+          "title": "[단독] “도심 비상발전기 매연 엄청”…데이터센터 늘며 ‘원전 29기’ 규모로↑",
           "link": "https://n.news.naver.com/mnews/article/028/0002825232?sid=102",
           "published_at": "2026-09-30T05:02:09"
         },
         {
-          "title": "“평가·분류 치우친 학교, 내가 사회에 속해 있다는 감각 파괴”",
+          "title": "“대학생도 힘든데…아이들의 꿈을 ‘직업’으로 환원시키는 학교, 적절한가?”",
           "link": "https://n.news.naver.com/mnews/article/028/0002825234?sid=102",
           "published_at": "2026-09-30T05:02:14"
         },
         {
-          "title": "한국인 ‘삶의 만족도’ 6.9점…30대 여성은 스트레스·우울감 가장 높아",
+          "title": "한국인 ‘삶의 만족도’ 6.9점…30대 여성 스트레스·우울감 가장 높아",
           "link": "https://n.news.naver.com/mnews/article/028/0002825242?sid=102",
           "published_at": "2026-09-30T06:02:07"
         }
@@ -779,7 +784,7 @@
           "published_at": "2026-09-29T21:07:00"
         },
         {
-          "title": "“투자자 상당수 손실, 증권사는 이익  주주 환원 등 사회공헌 기대 못미쳐”",
+          "title": "“투자자 상당수 손실, 증권사는 이익…주주 환원 등 사회공헌 기대 못미쳐”",
           "link": "https://n.news.naver.com/mnews/article/032/0003473229?sid=102",
           "published_at": "2026-09-29T21:07:01"
         },
@@ -1337,7 +1342,7 @@
           "published_at": "2026-09-29T22:57:08"
         },
         {
-          "title": "[속보] 김여정, ‘DMZ 北지뢰’ 軍 발표에 “서울의 자작광대극” 부인",
+          "title": "김여정 “자작광대극, 대가 각오해야”…‘DMZ 北지뢰’ 軍 발표 전면부인",
           "link": "https://n.news.naver.com/mnews/article/009/0005741702?sid=102",
           "published_at": "2026-09-30T06:18:07"
         },
@@ -1791,7 +1796,7 @@
           "published_at": "2026-09-30T06:00:11"
         },
         {
-          "title": "전국지자체 62곳, 미래기금發 지방교부세 축소에 우려·반대",
+          "title": "전국지자체 63곳, 미래기금發 지방교부세 축소에 우려·반대",
           "link": "https://n.news.naver.com/mnews/article/001/0016345203?sid=102",
           "published_at": "2026-09-30T06:00:11"
         },
