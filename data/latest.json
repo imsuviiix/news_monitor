@@ -1,1813 +1,1448 @@
 {
-  "generated_at": "2026-10-14T10:24:39.537639+09:00",
-  "window_start": "2026-10-13T19:00:00+09:00",
-  "window_end": "2026-10-14T07:00:00+09:00",
-  "date": "2026-10-14",
-  "dedup_removed": 6,
+  "generated_at": "2026-10-15T07:08:49.191977+09:00",
+  "window_start": "2026-10-14T19:00:00+09:00",
+  "window_end": "2026-10-15T07:00:00+09:00",
+  "date": "2026-10-15",
+  "dedup_removed": 0,
   "outlets": [
     {
       "key": "chosun",
       "name": "조선일보",
-      "count": 8,
+      "count": 9,
       "articles": [
         {
-          "title": "여·야 일제히 공수처 질타... “수사 능력도 의지도 없어”",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003623?sid=102",
-          "published_at": "2026-10-13T19:38:08"
+          "title": "전주서 아내 살해한 뒤 도주한 70대, 충남서 검거",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003840?sid=102",
+          "published_at": "2026-10-14T22:14:12"
         },
         {
-          "title": "완주 사거리서 승용차 2대 충돌…운전자 등 2명 부상",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003627?sid=102",
-          "published_at": "2026-10-13T20:45:08"
+          "title": "인구 정책은 ‘긴 호흡’ 필요… 출생·청년·가족·고령 사회 모두 연계해야",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003861?sid=102",
+          "published_at": "2026-10-15T00:32:34"
         },
         {
-          "title": "정진석 ‘한국언론학회 학술상’",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003673?sid=102",
-          "published_at": "2026-10-14T00:39:24"
+          "title": "[플라자] 고당조만식선생기념사업회 ‘고당 조만식선생 순국 76주기 추모식’ 개최",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003894?sid=102",
+          "published_at": "2026-10-15T00:40:22"
         },
         {
-          "title": "역사·한국학 3개 연구 기관 통폐합 추진에 학계 반발",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003687?sid=102",
-          "published_at": "2026-10-14T00:46:17"
+          "title": "佛 대통령 4명 식탁 책임진 前 수석 셰프 “정치는 편 가르지만, 음식은 하나로 모아”",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003895?sid=102",
+          "published_at": "2026-10-15T00:40:24"
         },
         {
-          "title": "검찰총장 추천위 구성… 21일까지 국민 추천 받기로",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003690?sid=102",
-          "published_at": "2026-10-14T00:46:29"
+          "title": "“對北 대화 밀어붙이면 역효과… 한발 물러서서 기다려야”",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003896?sid=102",
+          "published_at": "2026-10-15T00:40:29"
         },
         {
-          "title": "제주 여성 스토킹 피살 4차례 신고에도 못막아",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003691?sid=102",
-          "published_at": "2026-10-14T00:46:31"
+          "title": "강인숙·강은교 ‘자랑스러운 경기인’",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003897?sid=102",
+          "published_at": "2026-10-15T00:40:33"
         },
         {
-          "title": "“뱃살보다 혈압·당뇨 관리”… 건강 고민 1위는 비만 아닌 만성질환",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003693?sid=102",
-          "published_at": "2026-10-14T00:48:17"
+          "title": "“휴직한 김대리 올해 의대 갔대”",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003913?sid=102",
+          "published_at": "2026-10-15T00:46:11"
         },
         {
-          "title": "출범하자마자 이삿짐 싸야되는 중수청",
-          "link": "https://n.news.naver.com/mnews/article/023/0004003703?sid=102",
-          "published_at": "2026-10-14T00:51:22"
+          "title": "[오늘의 날씨] 2026년 10월 15일",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003926?sid=102",
+          "published_at": "2026-10-15T00:51:09"
+        },
+        {
+          "title": "[단독] 노란봉투법 잇단 소송에 변호사비 바닥난 중노위",
+          "link": "https://n.news.naver.com/mnews/article/023/0004003942?sid=102",
+          "published_at": "2026-10-15T05:01:07"
         }
       ]
     },
     {
       "key": "joongang",
       "name": "중앙일보",
-      "count": 11,
+      "count": 18,
       "articles": [
         {
-          "title": "위고비·마운자로 맞은 뒤…급성췌장염 1264명",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557693?sid=102",
-          "published_at": "2026-10-14T00:01:00"
+          "title": "[단독] 전주 70대, 아내 살해…집 벽엔 “경찰이 살인 부추겼다”",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557950?sid=102",
+          "published_at": "2026-10-14T21:16:19"
         },
         {
-          "title": "[사랑방] 통일부",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557686?sid=102",
-          "published_at": "2026-10-14T00:01:00"
+          "title": "[속보] 오스틴 생일 자축포…LG가 광주로 간다",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557951?sid=102",
+          "published_at": "2026-10-14T21:56:38"
         },
         {
-          "title": "[인사] 재정경제부 外",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557675?sid=102",
-          "published_at": "2026-10-14T00:01:00"
+          "title": "[속보] LG트윈스, 두산베어스 꺾고 준플레이오프 진출",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557952?sid=102",
+          "published_at": "2026-10-14T21:57:01"
         },
         {
-          "title": "대형 상가서 대낮 칼부림…8명 부상",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557732?sid=102",
-          "published_at": "2026-10-14T00:26:07"
+          "title": "‘10명 피해’ 인천 상업시설 흉기난동범…경찰, 구속영장 신청",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557955?sid=102",
+          "published_at": "2026-10-14T23:04:56"
         },
         {
-          "title": "박스 더미에 불 지르고 양주 부은 남성 “추워서 그랬다”",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557736?sid=102",
-          "published_at": "2026-10-14T01:46:28"
+          "title": "“수천만원 이자 갚고도 굴레”…연 578% 사채 시달린 주부의 유서",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557956?sid=102",
+          "published_at": "2026-10-14T23:51:23"
         },
         {
-          "title": "‘20대 제자 강제추행’ 경기대 전 총장, 1심서 징역 8개월",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557737?sid=102",
-          "published_at": "2026-10-14T01:47:44"
+          "title": "[부고] 최두진씨 外",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557973?sid=102",
+          "published_at": "2026-10-15T00:01:00"
         },
         {
-          "title": "조정식 유니폼, 김민석 사인볼, 장동혁 정장…나눔 한마음 [위아자 2026]",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557741?sid=102",
-          "published_at": "2026-10-14T05:00:00"
+          "title": "[우리말 바루기] ‘대인배’를 엉터리 단어라고 한 이유",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557988?sid=102",
+          "published_at": "2026-10-15T00:02:00"
         },
         {
-          "title": "기업인부터 축구스타까지…‘위아자 나눔위크’ 온정 더했다 [위아자 2026]",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557740?sid=102",
-          "published_at": "2026-10-14T05:00:00"
+          "title": "인천 흉기난동범 “뉴스거리 만들려 범행, 힘없는 사람 골라”",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557996?sid=102",
+          "published_at": "2026-10-15T00:06:18"
         },
         {
-          "title": "[단독] 사라진 경찰 압수폰 2대…한수원 150명 탄원서 서명 까닭",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557757?sid=102",
-          "published_at": "2026-10-14T05:00:02"
+          "title": "인구전략에서 출산율 뺐다…삶의 만족도·경제활동 참가율로 전환",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557997?sid=102",
+          "published_at": "2026-10-15T00:06:24"
         },
         {
-          "title": "노소영, 재산분할 부대상고 포기…최태원은 2440억 다툼",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557763?sid=102",
-          "published_at": "2026-10-14T05:51:35"
+          "title": "[사진] 시민·경찰이 합심해 난동범 제압",
+          "link": "https://n.news.naver.com/mnews/article/025/0003557998?sid=102",
+          "published_at": "2026-10-15T00:07:27"
         },
         {
-          "title": "“악귀 퇴치한다” 조카 숯불에 달궈 죽인 무속인…대법 “살인죄”",
-          "link": "https://n.news.naver.com/mnews/article/025/0003557767?sid=102",
-          "published_at": "2026-10-14T06:51:14"
+          "title": "지하철서 80대 할머니 발로 ‘퍽’…30대男, 5년 전에도 노인 때렸다",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558015?sid=102",
+          "published_at": "2026-10-15T00:52:49"
+        },
+        {
+          "title": "800원짜리 고추도 무료배송…새벽배송 도전장 낸 이들",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558034?sid=102",
+          "published_at": "2026-10-15T05:00:02"
+        },
+        {
+          "title": "[더버터] “의사 후원자를 만나 의사가 됐습니다”",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558044?sid=102",
+          "published_at": "2026-10-15T05:30:00"
+        },
+        {
+          "title": "[더버터] “실패는 도약을 위한 귀한 자산” … 재도전 위해 모인 창업가들",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558043?sid=102",
+          "published_at": "2026-10-15T05:30:00"
+        },
+        {
+          "title": "[더버터] 돌봄 공백, 기술이 연결하고 이웃이 돌본다",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558039?sid=102",
+          "published_at": "2026-10-15T05:30:00"
+        },
+        {
+          "title": "[더버터] “말라위에 자동차 필요하신가요?” … 전화 한 통으로 시작한 기부",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558047?sid=102",
+          "published_at": "2026-10-15T05:30:01"
+        },
+        {
+          "title": "[더버터] “꿈이 있는 학생들에게 ‘기회의 사다리’를”",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558045?sid=102",
+          "published_at": "2026-10-15T05:30:01"
+        },
+        {
+          "title": "[더버터] 삶의 경험을 나눔으로 … ‘더기버스50’ 선정 마무리",
+          "link": "https://n.news.naver.com/mnews/article/025/0003558041?sid=102",
+          "published_at": "2026-10-15T05:30:01"
         }
       ]
     },
     {
       "key": "donga",
       "name": "동아일보",
-      "count": 6,
+      "count": 34,
       "articles": [
         {
-          "title": "‘언론학회 학술상’ 정진석 명예교수",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754762?sid=102",
-          "published_at": "2026-10-14T04:32:28"
+          "title": "잠 안 잔다고 2개월 딸 때려 숨지게한 40대 친부 구속",
+          "link": "https://n.news.naver.com/mnews/article/020/0003754992?sid=102",
+          "published_at": "2026-10-14T19:05:12"
         },
         {
-          "title": "조던의 ‘라스트 댄스’ 유니폼, 188억원에 낙찰",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754764?sid=102",
-          "published_at": "2026-10-14T04:32:32"
+          "title": "출산율 넘어 ‘고령화 대응’으로…청년 돌봄 전문직 10만명 키운다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003754993?sid=102",
+          "published_at": "2026-10-14T19:15:12"
         },
         {
-          "title": "韓銀 금융담당 직원들 주식거래 35배로 급증",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754786?sid=102",
-          "published_at": "2026-10-14T04:33:32"
+          "title": "‘김수현 명예훼손 혐의’ 가세연 김세의, 보석 청구",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755002?sid=102",
+          "published_at": "2026-10-14T21:02:15"
         },
         {
-          "title": "‘국힘 397억’ 걸린 尹 선거법 2심 27일 선고",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754787?sid=102",
-          "published_at": "2026-10-14T04:33:35"
+          "title": "서울대 차기 총장 후보로 강준호·최해천·이재영 3인 확정",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755005?sid=102",
+          "published_at": "2026-10-14T21:52:16"
         },
         {
-          "title": "법무부-금융위 등 27곳 먼저 내년 세종 이전… 공무원 1만명 이동",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754805?sid=102",
-          "published_at": "2026-10-14T04:34:20"
+          "title": "광주서 무단횡단하던 여성, 승용차 치여 숨져",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755010?sid=102",
+          "published_at": "2026-10-14T22:48:10"
         },
         {
-          "title": "“정부24까지 뚫려” 국감 질타에 개보위 “보안 뒤처진 것 사실”",
-          "link": "https://n.news.naver.com/mnews/article/020/0003754817?sid=102",
-          "published_at": "2026-10-14T04:34:51"
+          "title": "아내 살해 후 도주 혐의 70대, 충남서 긴급체포",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755011?sid=102",
+          "published_at": "2026-10-14T22:58:17"
+        },
+        {
+          "title": "붐업코리아, 수출 다변화의 결실과 씨앗[기고/강경성]",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755045?sid=102",
+          "published_at": "2026-10-15T00:31:55"
+        },
+        {
+          "title": "“금융망 취약점, AI는 1시간 만에 찾아 대처”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755046?sid=102",
+          "published_at": "2026-10-15T00:31:57"
+        },
+        {
+          "title": "울주 화학제품 공장 대형 화재, 7000명 긴급 대피",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755052?sid=102",
+          "published_at": "2026-10-15T04:32:16"
+        },
+        {
+          "title": "강선우 “김병기에 원하는 면접 질문 카톡 말고 텔레로 보내라”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755053?sid=102",
+          "published_at": "2026-10-15T04:32:19"
+        },
+        {
+          "title": "은빛 억새 물결 속으로…",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755056?sid=102",
+          "published_at": "2026-10-15T04:32:26"
+        },
+        {
+          "title": "“밥값은 선행입니다” 셰프 출신 신부님의 묘한 식당",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755059?sid=102",
+          "published_at": "2026-10-15T04:32:35"
+        },
+        {
+          "title": "“K뷰티-AI테크 새 일자리 정보 가득”… 현장서 채용 상담도",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755061?sid=102",
+          "published_at": "2026-10-15T04:32:41"
+        },
+        {
+          "title": "청년 구직자-재취업 준비 5060 잇단 발길… AI 모의 면접-취업 지원 프로그램 연계도",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755062?sid=102",
+          "published_at": "2026-10-15T04:32:44"
+        },
+        {
+          "title": "과학자 406명 “해킹가능 AI, 인터넷 격리 시험을”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755063?sid=102",
+          "published_at": "2026-10-15T04:32:46"
+        },
+        {
+          "title": "BTS ‘아리랑’, 스포티파이 50억회 스트리밍 기록",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755067?sid=102",
+          "published_at": "2026-10-15T04:32:57"
+        },
+        {
+          "title": "[라운지]경기여고 총동창회 ‘경운회’",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755068?sid=102",
+          "published_at": "2026-10-15T04:32:59"
+        },
+        {
+          "title": "박정율 교수 세계의사회장 취임",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755069?sid=102",
+          "published_at": "2026-10-15T04:33:01"
+        },
+        {
+          "title": "“아동학대 사망 막으려면, ‘위기 산모’부터 지원해야”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755080?sid=102",
+          "published_at": "2026-10-15T04:33:29"
+        },
+        {
+          "title": "“서울대 붙었지만 켄텍 선택”… 연구 보장 지방대, 인재 붙잡는다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755083?sid=102",
+          "published_at": "2026-10-15T04:33:37"
+        },
+        {
+          "title": "與 견제받은 김지용 “檢개혁 완성하고 싶다”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755089?sid=102",
+          "published_at": "2026-10-15T04:33:55"
+        },
+        {
+          "title": "양육권 다투던 40대 남성, 딸과 숨진채 발견… 경찰, “아이 위험” 엄마 신고 단순민원 처리",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755091?sid=102",
+          "published_at": "2026-10-15T04:34:01"
+        },
+        {
+          "title": "檢미래위, 李 기소했던 위례 수사팀 서면조사",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755093?sid=102",
+          "published_at": "2026-10-15T04:34:06"
+        },
+        {
+          "title": "[단독]국민연금, 내년 17% 손실 나도 성과급 230억 받는다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755096?sid=102",
+          "published_at": "2026-10-15T04:34:13"
+        },
+        {
+          "title": "‘지옥철’ 9호선, 출근시간대 운행 8회 늘린다",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755097?sid=102",
+          "published_at": "2026-10-15T04:34:15"
+        },
+        {
+          "title": "김지용 “정치검사 1호는 윤석열”… 與강경파 ‘친윤’ 공격에 반박",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755098?sid=102",
+          "published_at": "2026-10-15T04:34:18"
+        },
+        {
+          "title": "“출산율 높이기보다 ‘삶의 질’ 초점… 인구정책 재설계”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755103?sid=102",
+          "published_at": "2026-10-15T04:34:32"
+        },
+        {
+          "title": "인천 난동범, 이달초 ‘흉기 소지’ 입건… 경찰 ‘위험성 평가’도 안해",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755104?sid=102",
+          "published_at": "2026-10-15T04:34:34"
+        },
+        {
+          "title": "“관심 끌려고 범행… 나보다 힘없는 사람 골랐다”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755105?sid=102",
+          "published_at": "2026-10-15T04:34:39"
+        },
+        {
+          "title": "李 “묻지마 범죄 최소화되도록 예방 조치”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755106?sid=102",
+          "published_at": "2026-10-15T04:34:44"
+        },
+        {
+          "title": "지역으로 간 시니어 의사들 “환자 있는 한 계속”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755107?sid=102",
+          "published_at": "2026-10-15T04:34:46"
+        },
+        {
+          "title": "[부고]박종건 별세 外",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755108?sid=102",
+          "published_at": "2026-10-15T04:34:50"
+        },
+        {
+          "title": "김성주 “리밸런싱 유예 안했다면 하루 8000억 매도… 시장 충격”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755110?sid=102",
+          "published_at": "2026-10-15T04:34:55"
+        },
+        {
+          "title": "“제조 도시 창원, 북극항로-청정에너지로 산업 영토 넓힐 것”",
+          "link": "https://n.news.naver.com/mnews/article/020/0003755112?sid=102",
+          "published_at": "2026-10-15T04:35:00"
         }
       ]
     },
     {
       "key": "hani",
       "name": "한겨레",
-      "count": 10,
+      "count": 7,
       "articles": [
         {
-          "title": "뛰놀던 골목·학교앞 문방구…기억 사라질까, ‘서울 수집’하는 사람들",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827314?sid=102",
-          "published_at": "2026-10-13T19:20:21"
+          "title": "“우린 2등 국민이 아닙니다”…직장갑질119 첫 ‘5인 미만 노조’ 출범",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827495?sid=102",
+          "published_at": "2026-10-14T19:02:12"
         },
         {
-          "title": "스토킹 등 4차례 신고에도…입건 안한 경찰 “피해자 뜻 따른 것”",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827315?sid=102",
-          "published_at": "2026-10-13T19:24:28"
+          "title": "“소방관 명예 짓밟았다” 분노…‘재정 빨대’ 발언 추미애 지사 규탄",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827496?sid=102",
+          "published_at": "2026-10-14T19:16:22"
         },
         {
-          "title": "남양주 와부중학교 급식실서 불…682명 대피, 12명 연기흡입",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827319?sid=102",
-          "published_at": "2026-10-13T19:40:07"
+          "title": "JTBC, 이달 중 매각 공고 낸다…매각자문사 확정",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827504?sid=102",
+          "published_at": "2026-10-14T21:10:06"
         },
         {
-          "title": "‘나주 60대 부부 살해’ 50대 피의자 14일 오전 10시 신상공개",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827320?sid=102",
-          "published_at": "2026-10-13T19:42:12"
+          "title": "김지용 “표적수사·먼지털기 수사 않겠다…책임수사제 도입”",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827506?sid=102",
+          "published_at": "2026-10-14T21:30:12"
         },
         {
-          "title": "파주 폐기물 수집·운반업체서 불…이주노동자 등 4명 다쳐",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827321?sid=102",
-          "published_at": "2026-10-13T19:50:14"
+          "title": "“잘 팔리니 노선변경” 힙합 계정이 극우 확성기로",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827515?sid=102",
+          "published_at": "2026-10-15T05:02:14"
         },
         {
-          "title": "‘첫 국감’ 추미애, SNS·김지용 비판 공방…여·야 일제히 ‘포화’",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827324?sid=102",
-          "published_at": "2026-10-13T20:02:07"
+          "title": "인스타그램 극우 생태계 팔로잉 1위는 윤석열",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827526?sid=102",
+          "published_at": "2026-10-15T05:02:46"
         },
         {
-          "title": "민간건물 임차 27곳 내년 이전…‘행정수도 세종’ 2031년 완성",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827325?sid=102",
-          "published_at": "2026-10-13T20:14:10"
-        },
-        {
-          "title": "제주 차량서 40대 아버지·네살배기 딸, 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827326?sid=102",
-          "published_at": "2026-10-13T20:14:13"
-        },
-        {
-          "title": "인천서 전자발찌 찬 50대 흉기난동…시민들, 의자로 막으며 제압",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827328?sid=102",
-          "published_at": "2026-10-13T22:06:10"
-        },
-        {
-          "title": "김지용 중수청장 후보 오늘 청문회…‘친윤 논란·개혁 적합성’ 시험대",
-          "link": "https://n.news.naver.com/mnews/article/028/0002827337?sid=102",
-          "published_at": "2026-10-14T06:02:07"
+          "title": "카메라 틀면 숨차도록 춤추던 딸…호흡기 없인 숨도 쉴 수 없다니요",
+          "link": "https://n.news.naver.com/mnews/article/028/0002827529?sid=102",
+          "published_at": "2026-10-15T06:02:06"
         }
       ]
     },
     {
       "key": "khan",
       "name": "경향신문",
-      "count": 18,
+      "count": 15,
       "articles": [
         {
-          "title": "인천 무차별 흉기난동 목격 시민들 “순식간에 아수라장···의자 던지며 범인 제압 나서기도 ”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476046?sid=102",
-          "published_at": "2026-10-13T19:25:00"
+          "title": "제36보병사단 공병대대 장병들 3개월 모은 헌혈증 200장 기증",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476319?sid=102",
+          "published_at": "2026-10-14T20:30:05"
         },
         {
-          "title": "‘최동원 야구 교실’ 11년 만에 프로 선수 첫 배출",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476062?sid=102",
-          "published_at": "2026-10-13T20:34:01"
+          "title": "형형색색 가을 자태 ‘꽃멍’ 빠진 멍멍이[금주의 B컷]",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476337?sid=102",
+          "published_at": "2026-10-14T21:09:00"
         },
         {
-          "title": "대전 과학기술혁신대상에 ‘HBM 아버지’ 김정호 교수",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476063?sid=102",
-          "published_at": "2026-10-13T20:34:02"
+          "title": "‘지옥철’ 서울 지하철 9호선, ‘급행’ 늘린다",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476344?sid=102",
+          "published_at": "2026-10-14T21:22:03"
         },
         {
-          "title": "미드 ‘브레이킹 배드’ 주인공 아들 역 맡은 미티 사망",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476065?sid=102",
-          "published_at": "2026-10-13T20:35:00"
+          "title": "‘비화폰 삭제’ 박종준, 증거인멸 혐의 2심서 유죄",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476346?sid=102",
+          "published_at": "2026-10-14T21:26:00"
         },
         {
-          "title": "한화 새 사령탑 맡은 류지현 감독 “팬과 함께 승리 쌓아 강팀 되겠다”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476068?sid=102",
-          "published_at": "2026-10-13T20:40:01"
+          "title": "‘법 밖 노동자’ 대변…5인 미만 노조 첫 출범",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476347?sid=102",
+          "published_at": "2026-10-14T21:27:00"
         },
         {
-          "title": "새마을금고도 해킹 공격에 회원 개인정보 털렸다",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476074?sid=102",
-          "published_at": "2026-10-13T20:49:02"
+          "title": "‘딸 경찰 수사 무마 의혹’ 한동훈, 국수본·중수청 양쪽에 고발됐다",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476350?sid=102",
+          "published_at": "2026-10-14T21:33:00"
         },
         {
-          "title": "‘감 고을’ 충북 영동군, 감나무 가로수길에 ‘감’이 사라진 까닭",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476094?sid=102",
-          "published_at": "2026-10-13T21:14:00"
+          "title": "엄마의 거듭된 신고·8차례 대면조사…그런데도 못 막은 4세 어린이의 죽음",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476351?sid=102",
+          "published_at": "2026-10-14T21:34:01"
         },
         {
-          "title": "‘피의사실 공표’ 백해룡 수사, 공소청 이첩받아 결국 경찰이 한다",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476102?sid=102",
-          "published_at": "2026-10-13T21:28:00"
+          "title": "네팔 대홍수 50일째, 한국인 실종자 9명은 어디에…",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476352?sid=102",
+          "published_at": "2026-10-14T21:34:02"
         },
         {
-          "title": "통합돌봄 ‘방문진료’ 수행 역량…인구감소지역, 두 배 이상 낮다",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476103?sid=102",
-          "published_at": "2026-10-13T21:28:01"
+          "title": "LH전세 ‘소년소녀 가정’ 절반가량 쫓겨날 위기",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476355?sid=102",
+          "published_at": "2026-10-14T21:41:00"
         },
         {
-          "title": "보호관찰관 면담 직후 범행…목격 시민 “지금도 숨이 턱 막혀”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476104?sid=102",
-          "published_at": "2026-10-13T21:28:02"
+          "title": "‘금융권 해킹’ 16개사서 10만여건 고객정보 유출 확인",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476356?sid=102",
+          "published_at": "2026-10-14T21:41:01"
         },
         {
-          "title": "‘노란봉투법 해석지침’ 폐기 요구하는 민주노총[포토뉴스]",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476117?sid=102",
-          "published_at": "2026-10-13T21:28:03"
+          "title": "인천 흉기난동범 “사회적 이슈 만들려 범행” 약자만 골라 공격…경찰, 사전 계획 추궁 중",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476370?sid=102",
+          "published_at": "2026-10-14T22:05:00"
         },
         {
-          "title": "흉기난동 현장 찾은 경찰청장 직무대행 “신속 수사 지시…다중 운집시설 순찰 강화”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476105?sid=102",
-          "published_at": "2026-10-13T21:35:00"
+          "title": "분초 다투는 ‘관계성 범죄’, 가해자 제약엔 절차 필요…법원 ‘보호조치’ 딜레마",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476371?sid=102",
+          "published_at": "2026-10-14T22:06:00"
         },
         {
-          "title": "김지용, 인사 공개 비판 임은정에 “언동 각별히 유의해야”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476109?sid=102",
-          "published_at": "2026-10-13T21:41:00"
+          "title": "“피해자 직접 신고 ‘사후 대응’서 고위험자 격리 등 제도 개선을”",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476372?sid=102",
+          "published_at": "2026-10-14T22:06:01"
         },
         {
-          "title": "2031년 ‘행정수도’ 사실상 완성…법 정비·정주 여건 ‘숙제’",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476114?sid=102",
-          "published_at": "2026-10-13T21:47:02"
+          "title": "잠실 마지막 라이벌전, LG가 활짝 웃었다···두산 잡고 준플레이오프 진출",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476378?sid=102",
+          "published_at": "2026-10-14T22:26:00"
         },
         {
-          "title": "부산 간 이 대통령 “북극항로, 필요할 때 준비하면 늦어”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476121?sid=102",
-          "published_at": "2026-10-13T21:55:01"
-        },
-        {
-          "title": "“경찰에 ‘안전 확인’ 수차례 요청했지만 결국”···제주서 40대 아버지·네 살 딸 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476126?sid=102",
-          "published_at": "2026-10-13T23:02:00"
-        },
-        {
-          "title": "[단독]복지 담당 공무원이 보다 못해 나섰는데···생계급여 직권신청 5건 중 1건 ‘탈락’",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476132?sid=102",
-          "published_at": "2026-10-14T06:00:11"
-        },
-        {
-          "title": "노란봉투법 교섭 타결 3곳뿐…노동계 “지침 폐기” 야권 “법 재설계”",
-          "link": "https://n.news.naver.com/mnews/article/032/0003476133?sid=102",
-          "published_at": "2026-10-14T06:00:12"
+          "title": "[단독]예산 3억 들여 300명 ‘드론 자격증’ 지원···전담인력은 정작 외부 채용",
+          "link": "https://n.news.naver.com/mnews/article/032/0003476388?sid=102",
+          "published_at": "2026-10-15T06:00:02"
         }
       ]
     },
     {
       "key": "hankookilbo",
       "name": "한국일보",
-      "count": 15,
+      "count": 10,
       "articles": [
         {
-          "title": "법무부, '인천 흉기 난동'에 \"심려 끼쳐 깊이 사과… 전자감독 체계 전면 재점검\"",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959260?sid=102",
-          "published_at": "2026-10-13T19:02:15"
+          "title": "'10명 피해' 인천 흉기 난동…전자발찌 관리에도 \"위험 신호 왜 놓쳤나\"",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959512?sid=102",
+          "published_at": "2026-10-14T19:01:12"
         },
         {
-          "title": "범인은 '전처 살인미수' 전과자…대낮 쇼핑몰 칼부림, 시민들이 의자로 막았다",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959261?sid=102",
-          "published_at": "2026-10-13T19:11:09"
+          "title": "일본인 여행객 1명 사망… '소공동 캡슐호텔 화재' 관리자 송치",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959514?sid=102",
+          "published_at": "2026-10-14T19:11:13"
         },
         {
-          "title": "'장모 살해·아내 납치' 20대 구속… 유족 \"강제 혼인신고, 장모와 일면식도 없어\"",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959263?sid=102",
-          "published_at": "2026-10-13T19:22:16"
+          "title": "잠 안 자고 보챈다고… 생후 2개월 딸 때려 숨지게 한 친부 구속",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959515?sid=102",
+          "published_at": "2026-10-14T19:20:13"
         },
         {
-          "title": "'손에 묶인 칼' 보고도 도망 안 간 시민들…우산으로 막고 의자로 제압했다",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959265?sid=102",
-          "published_at": "2026-10-13T22:01:11"
+          "title": "\"사람 많은 상가에 가기 무서워요\"… 3년 만에 또 터진 흉기 난동",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959518?sid=102",
+          "published_at": "2026-10-14T20:01:09"
         },
         {
-          "title": "'강북 70대 살해' 피의자, 범행 후 피해자 카드로 500만 원 결제",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959266?sid=102",
-          "published_at": "2026-10-13T22:06:14"
+          "title": "서울대 개교 80주년… 유홍림 총장 \"대학만이 할 수 있는 일 찾아야\"",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959522?sid=102",
+          "published_at": "2026-10-14T22:11:10"
         },
         {
-          "title": "'인천 흉기 난동' 피해 20대 여성 의식 못 찾아…7명 부상자는 치료 후 회복 중",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959267?sid=102",
-          "published_at": "2026-10-13T22:21:11"
+          "title": "경찰, '인천 흉기 난동' 50대 피의자 구속영장 신청",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959525?sid=102",
+          "published_at": "2026-10-14T23:22:16"
         },
         {
-          "title": "\"딸 찾아달라\" 엄마 거듭 요청했지만... 네 살 딸, 제주서 끝내 숨졌다",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959277?sid=102",
-          "published_at": "2026-10-14T00:12:18"
+          "title": "[단독] 동급생 성폭행하고 불법 촬영… 가해자는 징계 없이 졸업했다",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959544?sid=102",
+          "published_at": "2026-10-15T04:31:40"
         },
         {
-          "title": "[오늘의 1면 사진] 노동이 쉴 틈, 보이질 않는다",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959281?sid=102",
-          "published_at": "2026-10-14T04:30:11"
+          "title": "그녀들의 억울한 죽음을 '검토'하라 [메아리]",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959545?sid=102",
+          "published_at": "2026-10-15T04:31:43"
         },
         {
-          "title": "[단독] 덜 마른 걸레 곁에서 겨우 돌리는 한숨…'1분 대기조' 청소노동자가 쉬는 법",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959284?sid=102",
-          "published_at": "2026-10-14T04:31:12"
+          "title": "김포시장 \"지하철 5호선 내 집 앞 역도 좋지만 조기 개통이 먼저\"",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959548?sid=102",
+          "published_at": "2026-10-15T04:31:53"
         },
         {
-          "title": "[기억할 오늘] 교황-대립교황의 시대와 콘클라베",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959285?sid=102",
-          "published_at": "2026-10-14T04:31:19"
-        },
-        {
-          "title": "[단독] '의료 공백' 회복 못한 국립암센터... 원장은 2년간 24차례 해외 출장",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959287?sid=102",
-          "published_at": "2026-10-14T04:31:24"
-        },
-        {
-          "title": "밀양에서 왜 불닭축제를?… 지역 축제, '특산물' 내려놓으니 활로가 보인다",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959290?sid=102",
-          "published_at": "2026-10-14T04:31:32"
-        },
-        {
-          "title": "AI데이터센터, 속도전의 진짜 비법[뉴스룸에서]",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959291?sid=102",
-          "published_at": "2026-10-14T04:31:35"
-        },
-        {
-          "title": "[단독] 1인당 0.6평 골방에서 숨 돌린다… 경찰서 청소 노동자의 서러운 휴식",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959292?sid=102",
-          "published_at": "2026-10-14T04:31:38"
-        },
-        {
-          "title": "[장련성의 하늘산책] 갯벌에 내려앉은 가을",
-          "link": "https://n.news.naver.com/mnews/article/469/0000959294?sid=102",
-          "published_at": "2026-10-14T04:31:43"
+          "title": "[기억할 오늘] 스페인 5월시위-월가 시위- 한국의 위성정당들",
+          "link": "https://n.news.naver.com/mnews/article/469/0000959554?sid=102",
+          "published_at": "2026-10-15T04:32:09"
         }
       ]
     },
     {
       "key": "kmib",
       "name": "국민일보",
-      "count": 14,
+      "count": 9,
       "articles": [
         {
-          "title": "전자발찌 50대 ‘무차별 칼부림’… 인천 대형 상가서 8명 중경상",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878479?sid=102",
-          "published_at": "2026-10-13T19:04:10"
+          "title": "[알림] ‘충청연합, 국가균형발전 표준이 되다’… ‘2026 충청미래포럼’ 엽니다",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878722?sid=102",
+          "published_at": "2026-10-14T19:02:15"
         },
         {
-          "title": "외교·통일·국방… 44개 행정기관 세종시로 옮긴다",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878481?sid=102",
-          "published_at": "2026-10-13T19:05:09"
+          "title": "‘지옥철’ 해소되나… 서울 9호선 출근길 8차례 증차",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878726?sid=102",
+          "published_at": "2026-10-14T19:04:10"
         },
         {
-          "title": "[인사] 문화체육관광부 外",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878489?sid=102",
-          "published_at": "2026-10-13T20:48:12"
+          "title": "‘한국판 CES’ 꿈꾸는 ‘대구 FIX’에 미래기술 총출동",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878727?sid=102",
+          "published_at": "2026-10-14T19:05:10"
         },
         {
-          "title": "[부고] 봉병호씨 별세 外",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878490?sid=102",
-          "published_at": "2026-10-13T20:49:07"
+          "title": "[포토] 특검, 선관위 ‘선거용품 특혜 의혹’ 압색",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878738?sid=102",
+          "published_at": "2026-10-14T21:17:07"
         },
         {
-          "title": "양주시, 캄보디아와 협력 기반 확대…기업·청소년·문화 교류 추진",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878493?sid=102",
-          "published_at": "2026-10-13T22:47:09"
+          "title": "전주서 아내 살해 혐의 70대…서천서 긴급체포",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878740?sid=102",
+          "published_at": "2026-10-14T22:20:08"
         },
         {
-          "title": "광명시, 지역공동체 자산화 국제포럼 개최…지역순환경제 확산 모색",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878495?sid=102",
-          "published_at": "2026-10-13T22:53:09"
+          "title": "“약해보이는 사람 골랐다”… 인천 ‘흉기 난동범’ 프로파일러 투입",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878745?sid=102",
+          "published_at": "2026-10-14T23:34:16"
         },
         {
-          "title": "경찰 소아응급실 압색 후폭풍… 의사 사직·센터 지정 반납론까지",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878498?sid=102",
-          "published_at": "2026-10-14T00:07:09"
+          "title": "일터가 어쩌다… 사장은 ‘절도범’ 누명 씌우고, 알바생은 민원 넣고",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878782?sid=102",
+          "published_at": "2026-10-15T02:07:10"
         },
         {
-          "title": "“더 빨리 못막아 아쉬울뿐” 범인 직접 제압한 2030 청년들",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878514?sid=102",
-          "published_at": "2026-10-14T00:40:09"
+          "title": "민선 9기 첫 추경 들여다보니… 서울 자치구 구정 방향 보이네",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878788?sid=102",
+          "published_at": "2026-10-15T02:20:10"
         },
         {
-          "title": "수자원公 ‘AI 정수장’ 국제표준 눈앞… 핵심관문 통과",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878528?sid=102",
-          "published_at": "2026-10-14T01:25:10"
-        },
-        {
-          "title": "“취업 사기 당한 느낌”… 중앙행정기관 세종 대이동에 ‘술렁’",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878533?sid=102",
-          "published_at": "2026-10-14T02:06:12"
-        },
-        {
-          "title": "“가을야구 암표 매매땐 쇠고랑” 오늘부터 사복경찰 뜬다",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878535?sid=102",
-          "published_at": "2026-10-14T02:07:13"
-        },
-        {
-          "title": "[앵글속 세상] 솔아 솔아 푸르던 솔아···",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878541?sid=102",
-          "published_at": "2026-10-14T02:18:18"
-        },
-        {
-          "title": "[단독] 해마다 수십명씩 줄퇴사, 퇴직 절반 이상은 ‘근속 3년 미만’인 소진공",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878562?sid=102",
-          "published_at": "2026-10-14T05:32:07"
-        },
-        {
-          "title": "비어있었는데… 한밤 남부대 기숙사서 화재, 70명 옥상 대피",
-          "link": "https://n.news.naver.com/mnews/article/005/0001878565?sid=102",
-          "published_at": "2026-10-14T05:55:08"
+          "title": "전자발찌로 못 막은‘이상 동기 범죄’…“사법입원제 고민해야”",
+          "link": "https://n.news.naver.com/mnews/article/005/0001878791?sid=102",
+          "published_at": "2026-10-15T02:37:10"
         }
       ]
     },
     {
       "key": "munhwa",
       "name": "문화일보",
-      "count": 15,
+      "count": 17,
       "articles": [
         {
-          "title": "전자발찌 찬 살인미수 전과자, 대낮 상가서 ‘묻지마 흉기 난동’…9명 부상",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824874?sid=102",
-          "published_at": "2026-10-13T19:04:15"
+          "title": "추미애 “소방이 골치아픈 재정 빨대” 발언에 소방노조 사과 요구",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825161?sid=102",
+          "published_at": "2026-10-14T20:22:12"
         },
         {
-          "title": "골프장 속옷 바구니서 은밀히 ‘슬쩍’…수천만원 상당 금품 훔친 50대",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824875?sid=102",
-          "published_at": "2026-10-13T19:34:08"
+          "title": "2.5m 높이 버스 전광판 넘어져 10대 깔려…병원 이송",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825162?sid=102",
+          "published_at": "2026-10-14T20:23:10"
         },
         {
-          "title": "[국감현장]추미애 “여의도지사? 그건 오해”",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824878?sid=102",
-          "published_at": "2026-10-13T20:16:13"
+          "title": "청약통장 5000만 원에 사들여 강남 아파트 ‘당첨 장사’…261억 원대 불법 전매 일당 39명 검거",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825164?sid=102",
+          "published_at": "2026-10-14T21:03:10"
         },
         {
-          "title": "리튬전지 삼킨 9개월 아기…소방헬기 출동 긴박 순간",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824879?sid=102",
-          "published_at": "2026-10-13T20:29:10"
+          "title": "‘김수현 명예훼손’ 김세의, 풀려날까…보석 청구 내일 심문",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825165?sid=102",
+          "published_at": "2026-10-14T21:04:14"
         },
         {
-          "title": "[속보]“찾아달라” 호소했지만 제주서 4살 딸 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824885?sid=102",
-          "published_at": "2026-10-13T21:37:11"
+          "title": "재결합 요구 거부한 여친 흉기로 ‘푹’, 이후 자해한 20대男의 최후",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825166?sid=102",
+          "published_at": "2026-10-14T21:45:10"
         },
         {
-          "title": "인천 칼부림 현장 찾은 경찰청장 직대 “제압해준 시민들께 감사”",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824888?sid=102",
-          "published_at": "2026-10-13T22:34:18"
+          "title": "“망사팬티?” 속옷 형태 파우치에 분노 쏟아지자 결국",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825169?sid=102",
+          "published_at": "2026-10-14T22:03:10"
         },
         {
-          "title": "“추워서 그랬다”…양주 들이붓고 불지른 남성, 범행 인정",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824892?sid=102",
-          "published_at": "2026-10-13T23:39:12"
+          "title": "“우리 부모님 돈 떼먹은 초등 동창이 유명 연애예능에…” 폭로글 올라와 갑론을박",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825176?sid=102",
+          "published_at": "2026-10-14T22:32:10"
         },
         {
-          "title": "한남동 외제차 매장서 직원들 ‘허리띠’로 폭행한 남성…현행범 체포",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824894?sid=102",
-          "published_at": "2026-10-14T00:15:12"
+          "title": "“급행이 더블?” 9호선 탑승객 환호 소식 나왔다",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825179?sid=102",
+          "published_at": "2026-10-14T23:22:17"
         },
         {
-          "title": "‘막강 권한 주어진 경찰이’…만취한 경찰간부, 운전대 잡고 차량 8대 ‘쾅’",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824896?sid=102",
-          "published_at": "2026-10-14T01:51:13"
+          "title": "‘이런 대화만 나눴으면’…당근 대화에 나온 뜻밖의 감동 사연 눈길",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825200?sid=102",
+          "published_at": "2026-10-15T04:10:18"
         },
         {
-          "title": "‘인천 흉기난동’ 심정지 20대女, 맥박 회복했지만 의식은 아직",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824901?sid=102",
-          "published_at": "2026-10-14T06:23:11"
+          "title": "범여권 의원도…“김지용 중수청장 후보, 국민이 반대...열망했던 사람 아니기 때문”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825202?sid=102",
+          "published_at": "2026-10-15T04:57:09"
         },
         {
-          "title": "파주 가온호수유치원, 나눔바자회 수익금 205만1000원 초록우산에 기부",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824902?sid=102",
-          "published_at": "2026-10-14T06:43:11"
+          "title": "최종부 서울시의원 “강선우·김경 실형은 사필귀정… 민주당 석고대죄해야”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825204?sid=102",
+          "published_at": "2026-10-15T06:19:10"
         },
         {
-          "title": "동대문구, 17일 청소년 페스티벌 개최… 래퍼 허성현 공연",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824906?sid=102",
-          "published_at": "2026-10-14T06:51:13"
+          "title": "“건축은 예술이자 문화”…영등포구, 제9회 영등포구 건축문화제 개최",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825213?sid=102",
+          "published_at": "2026-10-15T06:52:15"
         },
         {
-          "title": "강서구, 가을맞이 15개 동 주민축제 개최… 태진아 공연도",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824907?sid=102",
-          "published_at": "2026-10-14T06:52:13"
+          "title": "강서구 마곡광장서 16∼18일 ‘장애인문화예술축제’ 개최",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825214?sid=102",
+          "published_at": "2026-10-15T06:52:17"
         },
         {
-          "title": "남양주시, 궁집서 원데이 클래스 ‘옹주의 초대’ 하반기 운영",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824908?sid=102",
-          "published_at": "2026-10-14T06:52:15"
+          "title": "서초구, 중·고교 3곳서 ‘아침밥 먹기’ 캠페인… 1647명 참여",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825215?sid=102",
+          "published_at": "2026-10-15T06:52:19"
         },
         {
-          "title": "서초구, 사랑의 된장·간장 나눔… 저소득층 280세대에 전달",
-          "link": "https://n.news.naver.com/mnews/article/021/0002824909?sid=102",
-          "published_at": "2026-10-14T06:52:17"
+          "title": "강동구 “‘아이맘 강동’에서 상상력 키우는 놀이여행 운영”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825216?sid=102",
+          "published_at": "2026-10-15T06:52:21"
+        },
+        {
+          "title": "마포구, 새우젓축제서 반려동물 행동상담·체험 부스 운영",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825217?sid=102",
+          "published_at": "2026-10-15T06:52:24"
+        },
+        {
+          "title": "‘남산 고도제한 완화’ 빛 본다…서울 중구 “회현동 ‘대변신’ 본격화”",
+          "link": "https://n.news.naver.com/mnews/article/021/0002825219?sid=102",
+          "published_at": "2026-10-15T06:57:12"
         }
       ]
     },
     {
       "key": "mk",
       "name": "매일경제",
-      "count": 14,
+      "count": 10,
       "articles": [
         {
-          "title": "“딸 안전 확인해달라” 수차례 제주 경찰에 호소했지만...네 살배기 끝내 숨져",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748068?sid=102",
-          "published_at": "2026-10-13T19:02:06"
+          "title": "분당서울대병원, 23년 역사 담은 홍보관 ‘스페이스 이음’ 개관",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748759?sid=102",
+          "published_at": "2026-10-14T19:26:18"
         },
         {
-          "title": "“회의하시죠, KTX 시간 좀 볼게요”…금융사는 서울, 금융위는 세종",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748072?sid=102",
-          "published_at": "2026-10-13T19:43:07"
+          "title": "김지용 “중수청, 다시 검찰청과 한몸 되는 일 없을 것”",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748761?sid=102",
+          "published_at": "2026-10-14T19:41:06"
         },
         {
-          "title": "“정년연장, 오늘 논의해도 늦다”…김영훈 노동장관, 연내 처리 ‘승부수’",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748077?sid=102",
-          "published_at": "2026-10-13T19:58:15"
+          "title": "“너희가 어떻게 막을건데?ㅋ”…암표상들, 중국SNS·메신저로 이사했다",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748768?sid=102",
+          "published_at": "2026-10-14T21:02:12"
         },
         {
-          "title": "멀쩡한 정국 피부를 ‘귤껍질’로…악플러 역보정 사진에 팬들 분노",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748080?sid=102",
-          "published_at": "2026-10-13T20:27:07"
+          "title": "JTBC “10월 중 매각 공고”…한영회계법인 매각주관사로 확정",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748773?sid=102",
+          "published_at": "2026-10-14T21:21:07"
         },
         {
-          "title": "손흥민 자리 넘보고 은퇴 종용?…대표팀 덮친 가짜뉴스에 축구협회 뿔났다",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748081?sid=102",
-          "published_at": "2026-10-13T20:36:14"
+          "title": "“학교에 수류탄 있어요”…신고에 군·경 발칵",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748777?sid=102",
+          "published_at": "2026-10-14T21:57:07"
         },
         {
-          "title": "“김수현 씨, 아는 척 안 했으면…외화 많이 버시길” 은현장 무슨 일?",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748084?sid=102",
-          "published_at": "2026-10-13T21:13:07"
+          "title": "만취 여성 집단 성폭행한 20대 남성 3명…전원 구속 기소",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748779?sid=102",
+          "published_at": "2026-10-14T22:37:07"
         },
         {
-          "title": "“4층에 어린 아이들 많았다”…흉기 난동범에 의자 던져 막은 20대 ‘시민 영웅’",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748086?sid=102",
-          "published_at": "2026-10-13T21:28:10"
+          "title": "‘제주 부녀 사망’ 유족 “경찰 대응 미흡”…경찰 “위험 징후 없었다”",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748781?sid=102",
+          "published_at": "2026-10-14T22:44:10"
         },
         {
-          "title": "“대통령 아파트 거래 따라 했다가 세무조사?”…국세청장 답변 들어보니",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748087?sid=102",
-          "published_at": "2026-10-13T21:29:08"
+          "title": "35년 뒷바라진 한 아내에게 “연금은 내 돈, 못 준다” 선 그은 남편",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748782?sid=102",
+          "published_at": "2026-10-14T22:55:07"
         },
         {
-          "title": "홧김에 그랬단 진술은 ‘거짓’…70대 살해한 남성, 범행 직후 훔친 카드로 500만원 결제",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748092?sid=102",
-          "published_at": "2026-10-13T22:23:08"
+          "title": "“선처 합의 없다”…김희애·차승원 소속사, 딥페이크 범죄에 강경 대응",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748783?sid=102",
+          "published_at": "2026-10-14T22:58:16"
         },
         {
-          "title": "취임 하루 만에 직위해제 되더니…경기대 총장, 제자 추행 1심 실형에 해임 수순",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748093?sid=102",
-          "published_at": "2026-10-13T22:24:13"
-        },
-        {
-          "title": "“딸 숨져가던 21분 CCTV 사라져”…양재웅 병원 사망 유족, 경찰 초동수사 질타",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748097?sid=102",
-          "published_at": "2026-10-13T22:53:08"
-        },
-        {
-          "title": "“학생, 그 안경 잠깐 벗어봐”...연대·시립대 수시 논술서 잇단 부정행위",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748107?sid=102",
-          "published_at": "2026-10-14T06:02:07"
-        },
-        {
-          "title": "“또 신고하면 X여버린다”…불법주차 신고했더니 협박 당해",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748110?sid=102",
-          "published_at": "2026-10-14T06:31:08"
-        },
-        {
-          "title": "“한국 여자들, 강남 피부과를 왜 가죠?”...일본 여자는 제기동으로 간다",
-          "link": "https://n.news.naver.com/mnews/article/009/0005748111?sid=102",
-          "published_at": "2026-10-14T06:31:10"
+          "title": "인천 흉기난동범 진술 “나보다 약한 사람 골라…죽일 의도는 없었다”",
+          "link": "https://n.news.naver.com/mnews/article/009/0005748792?sid=102",
+          "published_at": "2026-10-15T05:49:06"
         }
       ]
     },
     {
       "key": "hankyung",
       "name": "한국경제",
-      "count": 14,
+      "count": 6,
       "articles": [
         {
-          "title": "인천 칼부림 50대 남성, 약물 다량 소지…\"범행 때 복용\"",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342175?sid=102",
-          "published_at": "2026-10-13T19:14:14"
+          "title": "외제차 딜러 얼굴에 허리띠 휘두른 50대…길거리서 난동도 [영상]",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342632?sid=102",
+          "published_at": "2026-10-14T19:45:09"
         },
         {
-          "title": "[속보] 나주 부부 강도살해범 신상공개…내일 오전 10시 전남청 누리집 게시",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342176?sid=102",
-          "published_at": "2026-10-13T19:18:15"
+          "title": "'김수현 명예훼손' 김세의, 법원에 보석 청구…내일 심문",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342633?sid=102",
+          "published_at": "2026-10-14T19:50:14"
         },
         {
-          "title": "美 조지아 놀이공원 롤러코스터 사고…1명 사망·4명 부상",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342180?sid=102",
-          "published_at": "2026-10-13T19:41:10"
+          "title": "AI 썼다고 해고?…복직 판결에 연말 성과급도 챙겼다 [김대영의 노무스쿨]",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342641?sid=102",
+          "published_at": "2026-10-14T21:07:10"
         },
         {
-          "title": "마라톤 결승선 앞두고 숨진 카이스트 대학원생…SNS 추모 물결",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342182?sid=102",
-          "published_at": "2026-10-13T20:02:12"
+          "title": "\"이게 왜 여기에\"…양평 초등학교 언덕서 수류탄 나와",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342648?sid=102",
+          "published_at": "2026-10-14T21:51:15"
         },
         {
-          "title": "4층 향하던 인천 칼부림 男, 20대 직장인이 대형 참사 막았다",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342186?sid=102",
-          "published_at": "2026-10-13T20:39:10"
+          "title": "법원, 선관위 '공명선거추진활동비' 압수수색 영장 기각…특검 재청구 검토",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342651?sid=102",
+          "published_at": "2026-10-14T22:12:13"
         },
         {
-          "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342192?sid=102",
-          "published_at": "2026-10-13T21:20:13"
-        },
-        {
-          "title": "\"화장품 파우치가 女 망사 속옷?\" 비난 쏟아지자 결국…",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342200?sid=102",
-          "published_at": "2026-10-13T22:16:16"
-        },
-        {
-          "title": "편의점서 물건 훔치던 30대…업주 폭행도 모자라 출동 경찰관에 '퉤'",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342201?sid=102",
-          "published_at": "2026-10-13T22:19:11"
-        },
-        {
-          "title": "추미애 \"빚내서 인심 쓰지 않겠다\"",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342204?sid=102",
-          "published_at": "2026-10-13T23:01:12"
-        },
-        {
-          "title": "여자친구도 있으면서…게임서 만난 여성에 수백차례 연락한 20대 男",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342205?sid=102",
-          "published_at": "2026-10-13T23:07:14"
-        },
-        {
-          "title": "단국대, 빛 투과하는 초소형 생체전극 개발",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342206?sid=102",
-          "published_at": "2026-10-13T23:09:14"
-        },
-        {
-          "title": "하남시, 영유아 순유입 전국 1위",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342207?sid=102",
-          "published_at": "2026-10-13T23:12:17"
-        },
-        {
-          "title": "[기자수첩] 돈은 어디서 나오는가…경기도 국감이 남긴 질문",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342208?sid=102",
-          "published_at": "2026-10-13T23:32:18"
-        },
-        {
-          "title": "\"아일릿이 뉴진스 표절\" 공개저격 하더니…민희진, 공소청行",
-          "link": "https://n.news.naver.com/mnews/article/015/0005342231?sid=102",
-          "published_at": "2026-10-14T06:39:11"
+          "title": "경찰, '10명 피해' 인천 흉기난동범 구속영장 신청",
+          "link": "https://n.news.naver.com/mnews/article/015/0005342653?sid=102",
+          "published_at": "2026-10-14T22:16:13"
         }
       ]
     },
     {
       "key": "yna",
       "name": "연합뉴스",
-      "count": 50,
+      "count": 34,
       "articles": [
         {
-          "title": "정부, 강진 피해 파나마에 30만달러 인도적 지원",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374532?sid=102",
-          "published_at": "2026-10-13T19:09:32"
+          "title": "[인사] 전남광주통합특별시의회",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377331?sid=102",
+          "published_at": "2026-10-14T19:11:43"
         },
         {
-          "title": "경찰, '나주 부부' 결박·살해 피의자 신상정보 공개 결정",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374534?sid=102",
-          "published_at": "2026-10-13T19:16:19"
+          "title": "'1억 공천헌금' 강선우 1심 실형·재구속…\"엄중 처벌 필요\"(종합2보)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377351?sid=102",
+          "published_at": "2026-10-14T19:15:51"
         },
         {
-          "title": "인천서 전자발찌 찬 50대 흉기난동에 1명 심정지·7명 부상(종합2보)",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374535?sid=102",
-          "published_at": "2026-10-13T19:30:08"
+          "title": "유한양행 '렉라자' 병용 요법 매출 첫 3억달러 돌파",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377353?sid=102",
+          "published_at": "2026-10-14T19:19:41"
         },
         {
-          "title": "노동자에 '납 배출 주사' 의혹 DN오토모티브 임원 경찰 조사",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374536?sid=102",
-          "published_at": "2026-10-13T19:37:26"
+          "title": "[인사] 국무조정실·국무총리비서실",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377375?sid=102",
+          "published_at": "2026-10-14T19:25:18"
         },
         {
-          "title": "이재명 대통령, 북극항로 시범운항선 시찰",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374537?sid=102",
-          "published_at": "2026-10-13T19:42:50"
+          "title": "SK그룹, 미국 원전 웨스팅하우스에 지분투자 검토",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377392?sid=102",
+          "published_at": "2026-10-14T19:30:55"
         },
         {
-          "title": "이재명 대통령, 북극항로 시범운항선 시찰",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374539?sid=102",
-          "published_at": "2026-10-13T19:43:36"
+          "title": "의자로 흉기난동범 제압하려는 시민",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377413?sid=102",
+          "published_at": "2026-10-14T19:34:18"
         },
         {
-          "title": "새마을금고 400명대 고객정보 유출…\"피해발생시 전액보상\"(종합2보)",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374545?sid=102",
-          "published_at": "2026-10-13T19:50:37"
+          "title": "제이알글로벌리츠, 자율구조조정 협의기간 내달 13일까지 연장",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377422?sid=102",
+          "published_at": "2026-10-14T19:41:35"
         },
         {
-          "title": "김지용 후보, 임은정 겨냥 \"'정치관여 금지 조항' 지켜야\"(종합)",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374547?sid=102",
-          "published_at": "2026-10-13T19:58:11"
+          "title": "'김수현 명예훼손' 김세의, 보석 청구…내일 심문",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377423?sid=102",
+          "published_at": "2026-10-14T19:42:16"
         },
         {
-          "title": "한남동 외제차 매장서 직원들 폭행 50대 남성 체포",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374554?sid=102",
-          "published_at": "2026-10-13T20:23:38"
+          "title": "정부 경찰개혁위 출범…내년 1분기 종합개혁안 확정(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377433?sid=102",
+          "published_at": "2026-10-14T19:49:15"
         },
         {
-          "title": "완주 사거리서 승용차 2대 충돌…2명 병원 이송",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374556?sid=102",
-          "published_at": "2026-10-13T20:25:04"
+          "title": "[날씨] 내일 아침 출근길 최저 3도 쌀쌀…오후 전국 곳곳 빗방울",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377443?sid=102",
+          "published_at": "2026-10-14T20:00:01"
         },
         {
-          "title": "업무보고 하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374560?sid=102",
-          "published_at": "2026-10-13T20:47:50"
+          "title": "퇴직 전 기밀자료 반출혐의 항우연 관계자 1명 송치…2명은 입건",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377491?sid=102",
+          "published_at": "2026-10-14T20:26:49"
         },
         {
-          "title": "업무보고 하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374562?sid=102",
-          "published_at": "2026-10-13T20:47:55"
+          "title": "전북 전주서 아내 살해한 70대, 충남서 검거",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377592?sid=102",
+          "published_at": "2026-10-14T21:41:13"
         },
         {
-          "title": "증인선서 하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374563?sid=102",
-          "published_at": "2026-10-13T20:48:00"
+          "title": "[그래픽] 미국 소비자물가 추이",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377612?sid=102",
+          "published_at": "2026-10-14T21:52:17"
         },
         {
-          "title": "증인선서 하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374564?sid=102",
-          "published_at": "2026-10-13T20:48:03"
+          "title": "경찰, '10명 피해' 인천 상업시설 흉기난동범 구속영장 신청",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377637?sid=102",
+          "published_at": "2026-10-14T22:00:58"
         },
         {
-          "title": "질의에 답하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374565?sid=102",
-          "published_at": "2026-10-13T20:48:08"
+          "title": "전북 전주서 아내 살해한 70대 검거…상습 가정폭력 이력(종합)",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377669?sid=102",
+          "published_at": "2026-10-14T22:18:10"
         },
         {
-          "title": "질의에 답하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374566?sid=102",
-          "published_at": "2026-10-13T20:48:10"
+          "title": "美코넬대 총장 \"사람들의 분노 이해…'제인 도' 겪은 일 유감\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377716?sid=102",
+          "published_at": "2026-10-15T04:22:49"
         },
         {
-          "title": "질의에 답하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374567?sid=102",
-          "published_at": "2026-10-13T20:48:14"
+          "title": "일교차 큰 쌀쌀한 날씨…수도권·강원 오후부터 비",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377722?sid=102",
+          "published_at": "2026-10-15T05:19:42"
         },
         {
-          "title": "업무보고 하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374568?sid=102",
-          "published_at": "2026-10-13T20:48:19"
+          "title": "\"檢폐지에 관세청 사건 1천582건 '행방불명'…마약수사 공백\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377730?sid=102",
+          "published_at": "2026-10-15T05:52:15"
         },
         {
-          "title": "업무보고 하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374569?sid=102",
-          "published_at": "2026-10-13T20:48:21"
+          "title": "주택연금 신규 가입자 확대에 가입률 첫 2%대로…\"여전히 저조\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377734?sid=102",
+          "published_at": "2026-10-15T05:55:00"
         },
         {
-          "title": "업무보고 하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374571?sid=102",
-          "published_at": "2026-10-13T20:48:25"
+          "title": "삼성역 철근누락 후 손실보전 750억원…국토부-서울시 책임 공방",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377735?sid=102",
+          "published_at": "2026-10-15T05:55:01"
         },
         {
-          "title": "업무보고 하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374572?sid=102",
-          "published_at": "2026-10-13T20:48:35"
+          "title": "인천 흉기난동범, 과거 첫 살인미수 범행 형량 '집행유예' 그쳐",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377733?sid=102",
+          "published_at": "2026-10-15T05:55:01"
         },
         {
-          "title": "경기남ㆍ북부경찰청 국정감사",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374573?sid=102",
-          "published_at": "2026-10-13T20:48:42"
+          "title": "반도체 설계대전 대통령상에 연세대팀…우수작 21개팀 시상",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377748?sid=102",
+          "published_at": "2026-10-15T06:00:05"
         },
         {
-          "title": "클래식 전용 '제주음악당' 2028년 개관…운영 방향 토론회 연다",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374592?sid=102",
-          "published_at": "2026-10-13T21:11:54"
+          "title": "'50개 지문 중 일치하는 것 찾아라'…42개국 전문가 실력 겨뤄",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377750?sid=102",
+          "published_at": "2026-10-15T06:00:06"
         },
         {
-          "title": "심정지로 병원 실려온 인천 흉기난동 피해자, 아직 의식 못찾아",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374597?sid=102",
-          "published_at": "2026-10-13T21:32:58"
+          "title": "조선 최고관청 '의정부' 만난다…'의정부지 유적전시관' 개관",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377752?sid=102",
+          "published_at": "2026-10-15T06:00:07"
         },
         {
-          "title": "이재명 대통령, 인천 흉기난동 대응 점검",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374601?sid=102",
-          "published_at": "2026-10-13T21:38:08"
+          "title": "서울 아파트 토허신청 5개월만에 반등…강북·서남권 상승폭 확대",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377754?sid=102",
+          "published_at": "2026-10-15T06:00:08"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374604?sid=102",
-          "published_at": "2026-10-13T21:39:51"
+          "title": "[OK제보] 발 담그면 시커멓게 변하는 물…'디톡스 족욕' 실체는",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377757?sid=102",
+          "published_at": "2026-10-15T06:00:10"
         },
         {
-          "title": "대서양 중앙 해령 바다서 규모 6.9 지진 발생",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374606?sid=102",
-          "published_at": "2026-10-13T21:43:08"
+          "title": "박종승 전 국방과학연구소장, 연합뉴스와 인터뷰",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377765?sid=102",
+          "published_at": "2026-10-15T06:01:02"
         },
         {
-          "title": "\"아이 위치 확인해 달라고 했지만…\" 딸 잃은 엄마의 절규",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374608?sid=102",
-          "published_at": "2026-10-13T21:51:29"
+          "title": "박종승 전 국방과학연구소장, 연합뉴스와 인터뷰",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377766?sid=102",
+          "published_at": "2026-10-15T06:01:03"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374611?sid=102",
-          "published_at": "2026-10-13T21:56:36"
+          "title": "인터뷰하는 박종승 전 국방과학연구소장",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377768?sid=102",
+          "published_at": "2026-10-15T06:01:06"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374612?sid=102",
-          "published_at": "2026-10-13T21:56:40"
+          "title": "충북 대체로 맑고, 아침 출근길 쌀쌀…낮 최고 20∼23도",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377770?sid=102",
+          "published_at": "2026-10-15T06:02:19"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374613?sid=102",
-          "published_at": "2026-10-13T21:56:44"
+          "title": "홍수대책상황실 7곳중 3곳 비상전원 없어…정전땐 대응차질 우려",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377772?sid=102",
+          "published_at": "2026-10-15T06:09:01"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374614?sid=102",
-          "published_at": "2026-10-13T21:56:47"
+          "title": "[김길원의 헬스노트] 첨단바이오 시대 진짜 패권은 '세포 주권'에 있다",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377777?sid=102",
+          "published_at": "2026-10-15T06:13:00"
         },
         {
-          "title": "李대통령, 인천경찰청 방문…흉기난동 사건에 \"특단 대책 강구\"",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374615?sid=102",
-          "published_at": "2026-10-13T21:58:35"
+          "title": "부산·울산·경남 맑고 쌀쌀…낮 기온 22∼23도",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377788?sid=102",
+          "published_at": "2026-10-15T06:34:12"
         },
         {
-          "title": "양재웅 병원 사망자 어머니, 경기남부청 국감서 철저 수사 촉구",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374616?sid=102",
-          "published_at": "2026-10-13T22:12:50"
-        },
-        {
-          "title": "\"피해자 진료이력 언론에 흘렸다\"…안산 성폭력 부실수사 파장",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374622?sid=102",
-          "published_at": "2026-10-13T22:53:07"
-        },
-        {
-          "title": "응급실은 급습, 민생사건은 뒷북…경찰 '고무줄 수사' 도마",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374628?sid=102",
-          "published_at": "2026-10-13T23:05:54"
-        },
-        {
-          "title": "전남광주 남부대 기숙사서 불…70명 대피",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374642?sid=102",
-          "published_at": "2026-10-14T00:22:14"
-        },
-        {
-          "title": "파푸아뉴기니 코코포 남쪽 바다서 규모 6.0 지진 발생",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374669?sid=102",
-          "published_at": "2026-10-14T04:14:01"
-        },
-        {
-          "title": "'1억 공천헌금' 강선우 의원 1심 선고…검찰, 징역 4년 구형",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374680?sid=102",
-          "published_at": "2026-10-14T05:30:01"
-        },
-        {
-          "title": "'악귀 퇴치' 숯불 열기로 조카 죽게 한 무당…대법 살인죄 인정",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374697?sid=102",
-          "published_at": "2026-10-14T06:00:02"
-        },
-        {
-          "title": "서울시, 블룸버그재단과 '건강도시 파트너십 국제 워크숍'",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374699?sid=102",
-          "published_at": "2026-10-14T06:00:03"
-        },
-        {
-          "title": "[OK제보] 포옹이 성매매 묘사?…경찰청 '황당 픽토그램'",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374701?sid=102",
-          "published_at": "2026-10-14T06:00:04"
-        },
-        {
-          "title": "신세계 센텀시티, 남성관 새단장…디자이너·신규 브랜드 확대",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374703?sid=102",
-          "published_at": "2026-10-14T06:00:06"
-        },
-        {
-          "title": "\"농어촌공사, 동일직종 뽑는데도 본부 심사기준 제각각\"",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374709?sid=102",
-          "published_at": "2026-10-14T06:00:13"
-        },
-        {
-          "title": "서울 골목으로 떠나는 맛있는 여행…'오래가게 위크 2026'",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374711?sid=102",
-          "published_at": "2026-10-14T06:00:14"
-        },
-        {
-          "title": "사회적 연결 '유통기한' 늘리려면…서울시복지재단 고립연결포럼",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374710?sid=102",
-          "published_at": "2026-10-14T06:00:15"
-        },
-        {
-          "title": "LH 전세임대 소년소녀 가구 46% 장기 체납…독촉 내몰려",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374713?sid=102",
-          "published_at": "2026-10-14T06:01:00"
-        },
-        {
-          "title": "신세계백화점, 센텀시티 남성관 새단장 오픈",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374715?sid=102",
-          "published_at": "2026-10-14T06:01:01"
-        },
-        {
-          "title": "신세계백화점, 센텀시티 남성관 새단장 오픈",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374717?sid=102",
-          "published_at": "2026-10-14T06:01:02"
-        },
-        {
-          "title": "부산·울산·경남 대체로 맑고 아침 쌀쌀…낮 최고 18∼22도",
-          "link": "https://n.news.naver.com/mnews/article/001/0016374732?sid=102",
-          "published_at": "2026-10-14T06:16:54"
+          "title": "아내 살해 70대, 체포 당시 음독…경찰 \"생명 지장 없어\"",
+          "link": "https://n.news.naver.com/mnews/article/001/0016377791?sid=102",
+          "published_at": "2026-10-15T06:42:29"
         }
       ]
     },
     {
       "key": "newsis",
       "name": "뉴시스",
-      "count": 89,
+      "count": 55,
       "articles": [
         {
-          "title": "[통영소식]고성 농협 직원·가족, 고향사랑기부 1000만원 등",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251028?sid=102",
-          "published_at": "2026-10-13T19:04:21"
+          "title": "\"왜 안자\" 생후 2개월 딸 폭행 사망…40대 친부 구속(종합)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254070?sid=102",
+          "published_at": "2026-10-14T19:10:18"
         },
         {
-          "title": "서지현, '안태근 감찰 무마' 부정한 김지용에 반박…\"가해자 특정됐었다\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251047?sid=102",
-          "published_at": "2026-10-13T19:20:52"
+          "title": "'메가특구' 사회적대화 4차 실무회의…한국노총 정책 제안",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254076?sid=102",
+          "published_at": "2026-10-14T19:12:50"
         },
         {
-          "title": "나주 강도살인 50대 피의자 신상정보 14일 공개",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251055?sid=102",
-          "published_at": "2026-10-13T19:24:09"
+          "title": "한 총리, 경찰개혁위 첫 주재 \"경찰 권한 커진 만큼 견제장치도 강화해야\"(종합)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254085?sid=102",
+          "published_at": "2026-10-14T19:23:31"
         },
         {
-          "title": "금융위 등 44곳, 세종 간다…수도권 집중 완화는 '과제'(종합2보)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251058?sid=102",
-          "published_at": "2026-10-13T19:27:02"
+          "title": "\"경제·정주·공간 혁신\"…구미시, '미래 비전' 제시",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254091?sid=102",
+          "published_at": "2026-10-14T19:28:54"
         },
         {
-          "title": "잇단 '관계성 범죄'에…경찰, 관련 사건 전수점검 나선다",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251060?sid=102",
-          "published_at": "2026-10-13T19:27:53"
+          "title": "'경남도민의 날' 43주년 기념식 성황…2000명 참석",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254093?sid=102",
+          "published_at": "2026-10-14T19:31:20"
         },
         {
-          "title": "[경남소식]도의회 10월 확대의장단 회의 개최 등",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251061?sid=102",
-          "published_at": "2026-10-13T19:28:53"
+          "title": "\"공수처장 징계권자 누구인가\" …해병특검, 국회 등에 해석 요청",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254094?sid=102",
+          "published_at": "2026-10-14T19:32:01"
         },
         {
-          "title": "불법주차 신고했더니 \"죽여버린다\"…차량 곳곳에 붙은 협박문",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251062?sid=102",
-          "published_at": "2026-10-13T19:31:02"
+          "title": "전남광주 도심 하천서 물고기 수십마리 폐사",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254101?sid=102",
+          "published_at": "2026-10-14T19:35:00"
         },
         {
-          "title": "제주 렌터카서 40대·4세 부녀 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251070?sid=102",
-          "published_at": "2026-10-13T19:40:50"
+          "title": "김천시, 2차 공공기관 지방이전 대비 '행정력 집중'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254116?sid=102",
+          "published_at": "2026-10-14T20:04:54"
         },
         {
-          "title": "군포시, 겨울철 폭설 선제 대응…\"제설 장비·인력 강화\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251075?sid=102",
-          "published_at": "2026-10-13T19:42:34"
+          "title": "광주 음식점서 불…인명피해 없이 22분만 완진",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254117?sid=102",
+          "published_at": "2026-10-14T20:05:30"
         },
         {
-          "title": "경남사회서비스원, 경남형 통합돌봄 표준 교육교재 발간",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251076?sid=102",
-          "published_at": "2026-10-13T19:44:10"
+          "title": "\"돈 떼먹은 부모 자식이 TV에\"…온라인 폭로글 논란",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254123?sid=102",
+          "published_at": "2026-10-14T20:15:37"
         },
         {
-          "title": "오동운 \"'대통령·의원 수사' 공수처→중수청 이관, 대단히 우려스러워\"(종합)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251082?sid=102",
-          "published_at": "2026-10-13T19:54:49"
+          "title": "옥천군시각장애인협, 흰지팡이의 날 기념행사",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254129?sid=102",
+          "published_at": "2026-10-14T20:16:38"
         },
         {
-          "title": "[인사]국무조정실·국무총리비서실",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251083?sid=102",
-          "published_at": "2026-10-13T19:58:31"
+          "title": "'김수현 명예훼손 혐의' 김세의, 보석 청구…내일 심문",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254148?sid=102",
+          "published_at": "2026-10-14T20:39:09"
         },
         {
-          "title": "결승선 500m 앞두고 멈춘 질주…'카이스트 러너' 유지원씨 추모 물결",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251086?sid=102",
-          "published_at": "2026-10-13T20:02:44"
+          "title": "서울대 개교 80주년…유홍림 총장 \"대학의 생명은 자유\"",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254150?sid=102",
+          "published_at": "2026-10-14T20:40:56"
         },
         {
-          "title": "'국힘 397억 반환' 걸린 尹 선거법 2심, 내달 4일 선고(종합 2보)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251092?sid=102",
-          "published_at": "2026-10-13T20:08:14"
+          "title": "국회 교육위, 교부금 공방…與 \"불용 예산 있어\" 野 \"졸속 개편\"",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254151?sid=102",
+          "published_at": "2026-10-14T20:42:51"
         },
         {
-          "title": "인천 구월동 대형마트 흉기 난동…피해자 9명으로 늘어",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251105?sid=102",
-          "published_at": "2026-10-13T20:23:10"
+          "title": "서울대 총장 후보 3인 선정…강준호·최해천·이재영 교수",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254164?sid=102",
+          "published_at": "2026-10-14T21:02:04"
         },
         {
-          "title": "\"경찰도 위험하다는 것 알았는데\"…'송파 장모 살해' 유족 분통",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251106?sid=102",
-          "published_at": "2026-10-13T20:24:18"
+          "title": "\"우리 애 밥 먹이고 올게요\"…회사 찾아온 극성 엄마",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254199?sid=102",
+          "published_at": "2026-10-14T21:38:48"
         },
         {
-          "title": "[창원소식]국립창원대, 교직원 수해복구 성금 초록우산 기탁 등",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251110?sid=102",
-          "published_at": "2026-10-13T20:28:22"
+          "title": "'신상정보 등록' 방치하더니…성범죄사건 공소시효 만료",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254205?sid=102",
+          "published_at": "2026-10-14T21:44:41"
         },
         {
-          "title": "손수 끓인 미역국과 손편지…아픈 엄마 울린 초등생 아들",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251117?sid=102",
-          "published_at": "2026-10-13T20:35:11"
+          "title": "고성군, '람사르 습지도시 인증' 국내 후보지로 선정",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254206?sid=102",
+          "published_at": "2026-10-14T21:47:51"
         },
         {
-          "title": "AI 시대 청소년 교육 해법은…언론진흥재단, '미디어교육 전국대회'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251119?sid=102",
-          "published_at": "2026-10-13T20:46:58"
+          "title": "아내 살해후 도주 70대…3시간여만에 충남서 검거",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254227?sid=102",
+          "published_at": "2026-10-14T21:59:30"
         },
         {
-          "title": "질의에 답하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251130?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "군포소방서, 전기차 화재 대응 민관 합동훈련",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254285?sid=102",
+          "published_at": "2026-10-14T22:46:19"
         },
         {
-          "title": "의원 질의 듣는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251127?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "상간 소송 이겼지만… 전 남편 외도녀가 올린 '신상 털기' 글에 피눈물",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254319?sid=102",
+          "published_at": "2026-10-15T00:00:00"
         },
         {
-          "title": "증인선서하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251126?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "35년 내조 끝에 돌아온 건 \"생활비 끊겠다\"…졸혼 선언 남편에 법원 잣대는",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254316?sid=102",
+          "published_at": "2026-10-15T00:00:00"
         },
         {
-          "title": "업무보고 하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251125?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "아침 10도 이하 기온 뚝…큰 일교차 유의[오늘날씨]",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254298?sid=102",
+          "published_at": "2026-10-15T00:00:00"
         },
         {
-          "title": "의원 질의에 답하는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251124?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "\"평소 건강했는데\" 마라톤 중 심정지…원인은?",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254329?sid=102",
+          "published_at": "2026-10-15T01:01:00"
         },
         {
-          "title": "자료 전달 받는 이승협 경기북부경찰청장",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251120?sid=102",
-          "published_at": "2026-10-13T20:48:23"
+          "title": "모낭을 냉동보관?…탈모 대비 '헤어뱅킹' 뭐길래",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254334?sid=102",
+          "published_at": "2026-10-15T02:40:00"
         },
         {
-          "title": "질의에 답하는 김홍근 경기남부경찰청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251137?sid=102",
-          "published_at": "2026-10-13T20:49:09"
+          "title": "맑은 대구·경북 15도 안팎 일교차…아침 3도·한낮 24도",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254338?sid=102",
+          "published_at": "2026-10-15T04:01:00"
         },
         {
-          "title": "김관호 신임 국군체육부대장 \"소속감으로 하나 되는 부대\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251139?sid=102",
-          "published_at": "2026-10-13T20:53:14"
+          "title": "\"오빠 잘못이야 내 잘못이야?\"…커플 싸움 판결해주는 AI 앱 등장",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254339?sid=102",
+          "published_at": "2026-10-15T04:10:00"
         },
         {
-          "title": "'거짓 보도자료 배포' 부안군수 후보자 선거사무장 불구속 송치",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251140?sid=102",
-          "published_at": "2026-10-13T20:55:18"
+          "title": "[오늘의 주요일정]제주(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254341?sid=102",
+          "published_at": "2026-10-15T04:30:00"
         },
         {
-          "title": "광명시의회, '무의공 이순신길' 명예도로 지정 정책토론",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251141?sid=102",
-          "published_at": "2026-10-13T20:56:04"
+          "title": "[오늘의 주요일정]부산(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254363?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "'일면식 없는 70대 살해' 20대, 피해자 카드로 500만원 결제",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251143?sid=102",
-          "published_at": "2026-10-13T20:58:56"
+          "title": "[오늘의 주요일정]경기북부(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254362?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "김영훈 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251144?sid=102",
-          "published_at": "2026-10-13T20:59:01"
+          "title": "[오늘의 주요일정]전북(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254355?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "조선시대 경상감사 부임 행렬, 문경 도심서 재현",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251157?sid=102",
-          "published_at": "2026-10-13T21:06:50"
+          "title": "[오늘의 주요일정]경기남부(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254347?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "흉기난동 현장 찾은 경찰청장 직무대행 \"모방범죄 없도록 최선\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251161?sid=102",
-          "published_at": "2026-10-13T21:20:52"
+          "title": "[오늘의 주요일정]인천·김포·부천(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254345?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "경남 경찰서장 12명 타 지역 이동…주요 보직 '향피제' 적용",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251167?sid=102",
-          "published_at": "2026-10-13T21:35:08"
+          "title": "\"아침에 쌀쌀해요\" 인천 10도, 한낮엔 20도…일교차 주의",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254368?sid=102",
+          "published_at": "2026-10-15T05:01:00"
         },
         {
-          "title": "이 대통령, 인천경찰청 방문…대형마트 흉기난동 사건 보고받아",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251171?sid=102",
-          "published_at": "2026-10-13T21:43:52"
+          "title": "제주, 구름 많고 낮 최고 24도…큰 일교차 유의",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254367?sid=102",
+          "published_at": "2026-10-15T05:01:00"
         },
         {
-          "title": "흉기난동 현장 찾은 김종철 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251177?sid=102",
-          "published_at": "2026-10-13T21:46:37"
+          "title": "[오늘의 주요일정]식품의약품안전처(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254366?sid=102",
+          "published_at": "2026-10-15T05:01:00"
         },
         {
-          "title": "흉기난동 현장 방문하는 김종철 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251174?sid=102",
-          "published_at": "2026-10-13T21:46:37"
+          "title": "경기북부 아침기온 7~8도 '쌀쌀'…오후에 5㎜ 비소식",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254365?sid=102",
+          "published_at": "2026-10-15T05:01:00"
         },
         {
-          "title": "경남과학고→영재학교 전환…도의회 '찬성' vs 전교조 '반대'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251178?sid=102",
-          "published_at": "2026-10-13T21:52:11"
+          "title": "'밤사이 기온 뚝' 전북 동부 서리…낮 20~23도 '맑음'",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254373?sid=102",
+          "published_at": "2026-10-15T05:30:54"
         },
         {
-          "title": "시민단체·학계, 대법관 재제청 갈등에 \"추천위 구성·운영 개선 필요\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251179?sid=102",
-          "published_at": "2026-10-13T21:52:33"
+          "title": "[오늘의 주요일정]강원(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254375?sid=102",
+          "published_at": "2026-10-15T05:49:29"
         },
         {
-          "title": "\"산에서 줄 세워 뺨 때렸다\"…김포 산길서 집단폭행 의혹",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251180?sid=102",
-          "published_at": "2026-10-13T21:59:12"
+          "title": "[오늘의 주요일정]경제(10월15일목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254409?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "김밥먹고 식중독 의심 800명 …\"선제적으로 챙길 것\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251181?sid=102",
-          "published_at": "2026-10-13T21:59:27"
+          "title": "\"하루 1만보 걸어도 부족\"…치매 예방 위해 중년부터 해야 할 운동",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254407?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "경기북부경찰 국감서 스마트워치 한계 지적…\"가해자 적극 조치해야\"",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251186?sid=102",
-          "published_at": "2026-10-13T22:21:48"
+          "title": "[오늘의 주요일정]기후에너지환경부(10월15일목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254406?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "'제자 추행 혐의' 하루 만에 직위해제된 경기대 신임 총장, 1심 징역 8개월",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251189?sid=102",
-          "published_at": "2026-10-13T22:27:42"
+          "title": "오늘 '고리 3·4호기' 계속운전 심사 개시…승인 시 3개월 후 상업 운전",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254403?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "인천 흉기난동 현장 찾은 김종철 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251193?sid=102",
-          "published_at": "2026-10-13T22:32:06"
+          "title": "충남권 아침 기온 10도 내외 뚝↓…일교차 10~15도",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254398?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "인천 흉기난동 현장 방문한 김종철 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251191?sid=102",
-          "published_at": "2026-10-13T22:32:06"
+          "title": "정부-최서원 '병원비 3900만원 회수' 소송, 오늘 1심 결론",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254397?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "\"추워서 불 질렀다\"…양주 들이붓고 방화, 경찰 추격에 덜미",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251194?sid=102",
-          "published_at": "2026-10-13T22:41:36"
+          "title": "[오늘의 주요일정]충북(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254385?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "\"비만약 쓴뒤 시력손상 의심\"…식약처에 1건 접수(종합)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251196?sid=102",
-          "published_at": "2026-10-13T22:52:42"
+          "title": "[오늘의 주요일정]고용노동부(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254382?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "인천 흉기난동 20대 여성 피해자, 아직 의식 회복 못해",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251199?sid=102",
-          "published_at": "2026-10-13T23:13:04"
+          "title": "[오늘의 주요일정]행정안전부(10월15일 목요일)",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254381?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "경기남부경찰 국정감사 '응급실 압수수색·피해자 보호 미흡' 등 지적",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251200?sid=102",
-          "published_at": "2026-10-13T23:18:13"
+          "title": "'묻지마 범죄' 막겠다며 신설됐지만…흉기소지 '전조증상'에도 구멍",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254378?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "[알림]뉴시스 콘텐츠 저작권 고지",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251223?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "韓 천주교 성지 남계리 유적, 세계유산 등재 가능할까",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254413?sid=102",
+          "published_at": "2026-10-15T06:05:00"
         },
         {
-          "title": "\"함께 살자\"더니 잠적…커플 열쇠고리로 드러난 대기업 사원의 '양다리'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251221?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "수능 앞두고 'AI 커닝' 비상…스마트 안경 잡는 전파 탐지기는 언제?",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254414?sid=102",
+          "published_at": "2026-10-15T06:10:00"
         },
         {
-          "title": "[녹유 오늘의 운세] 05년생 미운 정 고운 정 애틋함이 쌓여요",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251219?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "독감 백신은 있는데…감기 예방 주사는 없는 과학적 이유",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254418?sid=102",
+          "published_at": "2026-10-15T06:30:00"
         },
         {
-          "title": "\"회사 대출·수술비 필요\"…고령 집주인에게 3억 넘게 빌려 간 세입자의 실체",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251216?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "부산, 대체로 맑은 날씨…아침 기온 낮아 쌀쌀",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254419?sid=102",
+          "published_at": "2026-10-15T06:30:08"
         },
         {
-          "title": "'아침 최저 5도' 쌀쌀한 출근길…풍랑 주의[오늘날씨]",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251213?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "\"겉옷 챙기세요\"…전남광주 전날보다 5도 안팎 기온 뚝",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254422?sid=102",
+          "published_at": "2026-10-15T06:43:54"
         },
         {
-          "title": "몰래 최신 스마트폰 22대 훔친 직원…팔아 유흥비 탕진",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251225?sid=102",
-          "published_at": "2026-10-14T00:05:00"
-        },
-        {
-          "title": "\"편의점 진열대에 소변보고 태연히 퇴장\"…CCTV 본 점주 '경악'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251230?sid=102",
-          "published_at": "2026-10-14T00:30:00"
-        },
-        {
-          "title": "\"눈앞에 날파리 같은 게 보여요\"…혹시 이 질환?",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251234?sid=102",
-          "published_at": "2026-10-14T01:01:00"
-        },
-        {
-          "title": "\"간판 옮겨라\" vs \"원래 자리다\"…SNS로 번진 상가 1·2층 업주 갈등",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251235?sid=102",
-          "published_at": "2026-10-14T01:20:00"
-        },
-        {
-          "title": "비행기 안에서 쇼크온 한국계 여성…우즈벡 의사가 생명 구했다",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251238?sid=102",
-          "published_at": "2026-10-14T02:35:00"
-        },
-        {
-          "title": "대구·경북 대체로 맑고 큰 일교차…아침 7도·한낮 22도",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251243?sid=102",
-          "published_at": "2026-10-14T04:01:00"
-        },
-        {
-          "title": "\"스트레스 받으면 진짜 늙는다\"…전문의가 꼽은 항노화 전략 7가지",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251246?sid=102",
-          "published_at": "2026-10-14T04:12:00"
-        },
-        {
-          "title": "[오늘의 주요일정]제주(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251247?sid=102",
-          "published_at": "2026-10-14T04:30:00"
-        },
-        {
-          "title": "[오늘의 주요일정]강원(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251270?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]부산(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251268?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]식품의약품안전처(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251273?sid=102",
-          "published_at": "2026-10-14T05:01:00"
-        },
-        {
-          "title": "인천, 아침 최저기온 8도…바람도 강해 체감온도 뚝",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251272?sid=102",
-          "published_at": "2026-10-14T05:01:00"
-        },
-        {
-          "title": "제주, 맑은 가운데 기온 떨어져 쌀쌀…낮 최고 22도",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251271?sid=102",
-          "published_at": "2026-10-14T05:01:00"
-        },
-        {
-          "title": "\"약가 우대 인센티브 안돼\"…억울한 한국산 원료",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251274?sid=102",
-          "published_at": "2026-10-14T05:02:00"
-        },
-        {
-          "title": "전남광주 대학교 기숙사서 불…70명 대피",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251276?sid=102",
-          "published_at": "2026-10-14T05:28:58"
-        },
-        {
-          "title": "전북, 밤사이 찬 바람 기온 뚝…낮 17~20도 '맑음'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251281?sid=102",
-          "published_at": "2026-10-14T05:58:29"
-        },
-        {
-          "title": "\"부산에 없던 브랜드 모아\" 신세계百 센텀시티, 남성관 새단장",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251317?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]대구·경북(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251309?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]행정안전부(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251308?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]법조(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251307?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]성평등가족부(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251306?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]고용노동부(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251305?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]충북(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251303?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]보건복지부(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251302?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "\"인구구조 변화·AI 전환 속 진로교육은\"…서울교육청 포럼",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251301?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]사회(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251300?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]경제(10월14일수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251298?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "[오늘의 주요일정]서울시(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251295?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "김지용 중수청장 후보 오늘 청문회…'친윤' 논란, 임은정 감찰 쟁점 전망",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251292?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "국립낙동강생물자원관, 제3회 생물 체험 교구 개발 공모전",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251289?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "국립환경과학원, 제12차 i-CIPEC 국제학술대회서 미래형 폐기물 관리 논의",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251287?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "오늘 '수도권 교육청' 국감…교부금·민주시민교육 쟁점",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251320?sid=102",
-          "published_at": "2026-10-14T06:01:00"
-        },
-        {
-          "title": "'납배출 주사 투여 의혹' DN오토모티브 임원 경찰 조사",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251322?sid=102",
-          "published_at": "2026-10-14T06:28:48"
-        },
-        {
-          "title": "[오늘의 주요일정]울산(10월14일 수요일)",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251323?sid=102",
-          "published_at": "2026-10-14T06:29:01"
-        },
-        {
-          "title": "쌀쌀한 출근길…전남광주 아침기온 최대 10도 '뚝'",
-          "link": "https://n.news.naver.com/mnews/article/003/0014251330?sid=102",
-          "published_at": "2026-10-14T06:43:16"
+          "title": "충북 맑고 일교차 커…낮 최고 23도",
+          "link": "https://n.news.naver.com/mnews/article/003/0014254423?sid=102",
+          "published_at": "2026-10-15T06:48:31"
         }
       ]
     },
     {
       "key": "news1",
       "name": "뉴스1",
-      "count": 79,
+      "count": 46,
       "articles": [
         {
-          "title": "'정교유착' 한학자 2심 시작…\"형량 가벼워\" vs \"윤영호 단독 범행\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225676?sid=102",
-          "published_at": "2026-10-13T19:11:48"
+          "title": "전남광주 북구 신안동 한 상가서 화재…진화 중",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228266?sid=102",
+          "published_at": "2026-10-14T19:07:48"
         },
         {
-          "title": "나주 부부 살해범 흉기 미발견…경찰, '계획 범행' 입증에 수사력 집중",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225684?sid=102",
-          "published_at": "2026-10-13T19:24:50"
+          "title": "학원 두 차례 기습 점검한 안민석…\"첫 적발부터 정지\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228297?sid=102",
+          "published_at": "2026-10-14T19:18:07"
         },
         {
-          "title": "신안서 급류에 떠밀려 어선 좌초…해경 10명 모두 구조",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225687?sid=102",
-          "published_at": "2026-10-13T19:28:18"
+          "title": "인천 흉기 난동 피의자, '흉기 소지 입건' 알았지만 '금지 조치' 없었다",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228299?sid=102",
+          "published_at": "2026-10-14T19:19:31"
         },
         {
-          "title": "공수처장 \"수사 대상서 대통령·국회의원 제외, 굉장히 우려\"(종합)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225699?sid=102",
-          "published_at": "2026-10-13T19:56:18"
+          "title": "[인터뷰] 김병주 \"국힘, 北 규탄보다 정쟁에 관심…북한만 이롭게 해\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228304?sid=102",
+          "published_at": "2026-10-14T19:21:38"
         },
         {
-          "title": "일면식 없는 70대 살해한 20대…피해자 카드로 500만 원 결제",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225702?sid=102",
-          "published_at": "2026-10-13T20:15:01"
+          "title": "김성주 \"리밸런싱 유예 안 했다면 하루 8000억 매도…주주가치 제고\"(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228313?sid=102",
+          "published_at": "2026-10-14T19:29:20"
         },
         {
-          "title": "[국감] 업무보고 하는 김홍근 경기남부청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225704?sid=102",
-          "published_at": "2026-10-13T20:30:26"
+          "title": "'1억 공천헌금' 강선우 징역 2년6개월…\"선거공정성 훼손\"(종합2보)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228341?sid=102",
+          "published_at": "2026-10-14T19:44:45"
         },
         {
-          "title": "[국감] 국정감사 열린 경기남부경찰청",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225706?sid=102",
-          "published_at": "2026-10-13T20:30:43"
+          "title": "'야차룰 학폭' 분리 요청 기각…안민석 교육감 \"꼼꼼히 살필 것\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228353?sid=102",
+          "published_at": "2026-10-14T19:56:25"
         },
         {
-          "title": "[국감] 증인선서하는 김홍근 경기남부청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225707?sid=102",
-          "published_at": "2026-10-13T20:31:22"
+          "title": "\"청년에게 휴식을\"…영월 망경산사의 '반야심야’",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228354?sid=102",
+          "published_at": "2026-10-14T19:57:27"
         },
         {
-          "title": "[인사] 국무조정실·국무총리비서실",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225708?sid=102",
-          "published_at": "2026-10-13T20:35:57"
+          "title": "韓총리 \"경찰, 뼈깎는 변화 필요…경찰권 엄격 통제·견제 강화\"(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228386?sid=102",
+          "published_at": "2026-10-14T20:22:34"
         },
         {
-          "title": "[국감] 업무 보고하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225711?sid=102",
-          "published_at": "2026-10-13T20:39:46"
+          "title": "'김수현 명예훼손 혐의' 김세의, 보석 청구…내일 심문",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228426?sid=102",
+          "published_at": "2026-10-14T20:54:10"
         },
         {
-          "title": "[국감] 업무 보고하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225712?sid=102",
-          "published_at": "2026-10-13T20:39:53"
+          "title": "정연욱 의원 \"의료관광객 91% 수도권 쏠림…지역 특화 지원 시급\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228468?sid=102",
+          "published_at": "2026-10-14T21:27:59"
         },
         {
-          "title": "[국감] 의원 질의 경청하는 김홍근 경기남부청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225714?sid=102",
-          "published_at": "2026-10-13T20:40:06"
+          "title": "전주 주택서 70대 여성 흉기 찔려 숨진 채 발견…경찰 \"유력 용의자 남편 추적 중\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228500?sid=102",
+          "published_at": "2026-10-14T21:49:50"
         },
         {
-          "title": "[국감] 의원 질의에 답하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225716?sid=102",
-          "published_at": "2026-10-13T20:40:22"
+          "title": "대전 안영나들목 인근서 11중 추돌사고…7명 경상",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228506?sid=102",
+          "published_at": "2026-10-14T21:55:06"
         },
         {
-          "title": "[국감] 의원 질의에 답하는 김홍근 경기남부청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225719?sid=102",
-          "published_at": "2026-10-13T20:40:24"
+          "title": "전주 주택서 70대 여성 흉기 찔려 숨져…경찰 \"남편 긴급체포\"(종합)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228530?sid=102",
+          "published_at": "2026-10-14T22:02:04"
         },
         {
-          "title": "[국감] 의원 질의에 답하는 김홍근 경기남부청장 직무대리",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225717?sid=102",
-          "published_at": "2026-10-13T20:40:25"
+          "title": "김지용 '친윤 프레임' 정면 돌파…\"중수청, 검찰청과 한몸 안 돼\"(종합2보)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228545?sid=102",
+          "published_at": "2026-10-14T22:08:46"
         },
         {
-          "title": "[국감] 의원 질의 경청하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225720?sid=102",
-          "published_at": "2026-10-13T20:40:26"
+          "title": "논산서 SUV가 지게차 들이받아…60대 지게차 운전자 숨져",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228587?sid=102",
+          "published_at": "2026-10-14T23:15:54"
         },
         {
-          "title": "[국감] 경기남북부경찰 국정감사",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225721?sid=102",
-          "published_at": "2026-10-13T20:48:44"
+          "title": "[포토] 개통식 앞둔 신압록강대교, 불 밝힌 북한 측 입구",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228596?sid=102",
+          "published_at": "2026-10-15T00:49:56"
         },
         {
-          "title": "[국감] 경기남북부경찰 국정감사",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225722?sid=102",
-          "published_at": "2026-10-13T20:48:55"
+          "title": "[포토] 개통식 앞둔 신압록강대교 북한 측 입구…북중 국기 아래 켜진 조명",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228597?sid=102",
+          "published_at": "2026-10-15T00:50:04"
         },
         {
-          "title": "[국감] 발언하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225725?sid=102",
-          "published_at": "2026-10-13T20:49:05"
+          "title": "[오늘의 날씨] 경기(15일, 목)…아침최저 6도·오후 북부 비",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228604?sid=102",
+          "published_at": "2026-10-15T04:00:00"
         },
         {
-          "title": "[국감] 발언하는 이승협 경기북부청장",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225726?sid=102",
-          "published_at": "2026-10-13T20:49:06"
+          "title": "[오늘의 주요일정] 부산·경남(15일, 목)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228633?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "'인천 흉기 난동'에 대전경찰청 특별활동…다중밀집지역 순찰 강화",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225731?sid=102",
-          "published_at": "2026-10-13T21:06:32"
+          "title": "[오늘의 주요일정] 경기(15일, 목)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228630?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "'하지도 않은 축사 발언' 보도자료 배포…부안군수 선거사무장 송치",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225734?sid=102",
-          "published_at": "2026-10-13T21:14:31"
+          "title": "[오늘의 주요일정]전북(15일, 목)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228629?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "[속보] 李대통령, 인천경찰청 방문…마트 흉기 난동 경위 점검",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225737?sid=102",
-          "published_at": "2026-10-13T21:17:45"
+          "title": "[오늘의 주요일정] 울산(15일, 목)",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228621?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 흉기난동 현장 찾은 김종철 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225739?sid=102",
-          "published_at": "2026-10-13T21:19:37"
+          "title": "오세훈의 '청년 AI' 56억 깎더니…민주당, 'AI 이용료 지원' 조례 발의",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228617?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 흉기난동 현장 찾은 경찰청장 대행 \"범행 동기 철저히 규명\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225741?sid=102",
-          "published_at": "2026-10-13T21:21:03"
+          "title": "[오늘의 날씨] 강원(15일, 목)…북부내륙 5㎜ 비, 높은 파도",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228616?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 대형 상가 흉기 난동 현장 찾은 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225742?sid=102",
-          "published_at": "2026-10-13T21:21:16"
+          "title": "\"멜론으로 포를 떴더라\"…백화점 팝업 스토어 '1만원 샌드위치' 부실 논란",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228615?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "제주서 40대 아버지, 어린 딸과 차량서 숨진 채 발견",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225744?sid=102",
-          "published_at": "2026-10-13T21:23:28"
+          "title": "[오늘의 날씨] 제주(15일, 목)…아침 최저 14~15도 '쌀쌀'",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228614?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "외제차 매장 직원에 허리띠 휘두른 50대 체포…다음 날 찾아가 협박",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225747?sid=102",
-          "published_at": "2026-10-13T21:31:26"
+          "title": "아이 옷·운동화 나눔했을 뿐인데…몇 달 뒤 '문고리 고구마' 감동",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228611?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225763?sid=102",
-          "published_at": "2026-10-13T21:59:00"
+          "title": "\"김새론 안고 자고 싶다\" 카톡 보낸 인물은 연예인 A 씨…조작 진술 확보",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228610?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 흉기 난동 현장 방문한 경찰청장 대행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225764?sid=102",
-          "published_at": "2026-10-13T21:59:16"
+          "title": "\"함께 살자\"던 대기업 남친…양다리 여행 걸리자 '스토킹 신고' 협박",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228609?sid=102",
+          "published_at": "2026-10-15T05:00:00"
         },
         {
-          "title": "인천 흉기 난동 현장 찾은 경찰청장 직무대행",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225765?sid=102",
-          "published_at": "2026-10-13T21:59:25"
+          "title": "[오늘의 날씨] 대구·경북(15일,목)…출근길 쌀쌀, 낮 18~24도",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228613?sid=102",
+          "published_at": "2026-10-15T05:00:01"
         },
         {
-          "title": "김종철 경찰청장 직무대행, 인천 '칼부림' 현장 방문",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225766?sid=102",
-          "published_at": "2026-10-13T22:00:14"
+          "title": "[오늘의 날씨]전북(15일, 목)…아침 기온 '뚝' 일교차 커",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228634?sid=102",
+          "published_at": "2026-10-15T05:00:02"
         },
         {
-          "title": "'안산 10대 성폭행 피해자 사망'…국감서 여야 경찰 부실수사 질타",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225769?sid=102",
-          "published_at": "2026-10-13T22:20:59"
+          "title": "\"월 120만원이나 주는데, 육아 내 방침 지켜라\"…장모에게 버럭한 사위",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228641?sid=102",
+          "published_at": "2026-10-15T05:05:15"
         },
         {
-          "title": "'제자 강제추행' 경기대 전 총장, 1심서 징역 8개월",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225770?sid=102",
-          "published_at": "2026-10-13T22:27:04"
+          "title": "\"이혼은 창피하니 졸혼하자\"…퇴직한 남편, 35년 살림한 아내에게 돌변",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228642?sid=102",
+          "published_at": "2026-10-15T05:10:00"
         },
         {
-          "title": "박주민 \"스토킹 피해자 스마트워치 지급 늘어도 가해자 조치는 미흡\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225772?sid=102",
-          "published_at": "2026-10-13T22:42:59"
+          "title": "허리띠로 뺨 '퍽퍽'…외제차 판매 직원에게 난동 부린 화장품 회사 임원[영상]",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228651?sid=102",
+          "published_at": "2026-10-15T05:30:00"
         },
         {
-          "title": "'인천 흉기 난동' 심정지 20대 여성, 응급수술에도 의식 못 찾아",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225774?sid=102",
-          "published_at": "2026-10-13T22:46:54"
+          "title": "구치소가 내준 최서원 병원비 3900만원…오늘 구상권 1심 선고",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228687?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "李대통령 \"흉기난동 피해자 회복 기원…범죄 예방·대응 강화\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225777?sid=102",
-          "published_at": "2026-10-13T22:56:57"
+          "title": "전 세계 지문 감정 전문가 모여 '실력대결'…경찰청, 국제 경연대회",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228686?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "스마트워치 지급에도 피해자 3명 사망…여야 \"지급만으론 부족\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225782?sid=102",
-          "published_at": "2026-10-13T23:10:29"
+          "title": "\"사라지고 변하는 서울의 풍경을 기록하다\"…서울기록페어 개최",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228685?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "'양재웅 병원' 사망 유족, 국감서 경찰 초동수사 질타…\"가슴 무너져\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225788?sid=102",
-          "published_at": "2026-10-13T23:37:08"
+          "title": "\"암표 잡아라\" 잠실에 뜬 사복경찰에 적발 '0건'…온라인선 200만원 호가",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228678?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "술 취해 동창 폭행해 뇌 손상…12시간 '살인미수' 논쟁 끝 '징역 8년'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225790?sid=102",
-          "published_at": "2026-10-13T23:52:01"
+          "title": "[인터뷰] 조의장 \"세일즈 외교 가장 중요…방산·청년대회 후속 정부에 전달\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228675?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "[알림] 뉴스1 콘텐츠 저작권 고지",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225792?sid=102",
-          "published_at": "2026-10-14T00:00:00"
+          "title": "김천시민체육대회 15일 개막...선수단·시민 2만여 명 참여",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228663?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "\"수사도 보호도 부실\"…경기 경찰 국감서 여야 한목소리 질타(종합)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225795?sid=102",
-          "published_at": "2026-10-14T01:04:49"
+          "title": "서울시교육청, 도산공원서 '서울학생 통일 꿈이룸 페스타' 개최",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228659?sid=102",
+          "published_at": "2026-10-15T06:00:00"
         },
         {
-          "title": "[오늘의 날씨] 강원(14일, 수)…10~15도 일교차, 강풍 주의",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225833?sid=102",
-          "published_at": "2026-10-14T05:00:00"
+          "title": "[인터뷰] 김교흥 \"태어날 때 출발선 택할 수 없어…자립청년 국가가 책임져야\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228704?sid=102",
+          "published_at": "2026-10-15T06:20:00"
         },
         {
-          "title": "[오늘의 날씨] 부산·경남(14일, 수)…대체로 맑음…강풍에 큰 일교차",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225831?sid=102",
-          "published_at": "2026-10-14T05:00:00"
+          "title": "'송파 장모 살해' 참극 못 막은 보호조치 공백…해외는 한국과 달랐다",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228707?sid=102",
+          "published_at": "2026-10-15T06:27:00"
         },
         {
-          "title": "[오늘의 주요일정] 전남광주(14일, 수)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225824?sid=102",
-          "published_at": "2026-10-14T05:00:00"
+          "title": "'로비스트 제도화' 이번에 될까…\"명확한 기준·공감대 필요\"",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228709?sid=102",
+          "published_at": "2026-10-15T06:30:00"
         },
         {
-          "title": "[오늘의 주요일정] 울산(14일, 수)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225823?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 주요 일정] 대전·충남(14일, 수)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225818?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 날씨] 대전·충남(14일, 수)…아침 기온 5~10도↓",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225816?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 날씨]전북(14일, 수)…진안 6도 등 아침 기온 '뚝'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225815?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 날씨] 충북·세종(14일, 수)…아침 기온 '뚝' 제천 5도",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225814?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "수도권 쏠림 심화 속 커지는 세종 역할…이전 효과 검증 과제",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225813?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 날씨] 제주(14일, 수)…낮 최고 22도, 맑지만 바람 '쌩쌩'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225812?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "전세금 2억 보탠 시모 \"애도 못 낳냐\" 폭언, 거실에 홈캠 설치 감시",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225809?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "\"잠자리 따로 마련해 줬는데\"…며느리 침대에 누운 시아버지 뭐죠?",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225806?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "돌아가신 할머니 꿈꾸고 산 복권 21억 잭팟…\"뺨 스무 번 때려봤다\" 감격",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225805?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "\"1.2억 들인 집이 사라졌다\"…귀농 앞둔 한옥, 이사 직전 돌연 철거 왜?",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225804?sid=102",
-          "published_at": "2026-10-14T05:00:00"
-        },
-        {
-          "title": "[오늘의 날씨]대구·경북(14일,수)…강풍 속 기온 뚝, 낮 17~22도",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225807?sid=102",
-          "published_at": "2026-10-14T05:00:01"
-        },
-        {
-          "title": "\"내가 맡은 자리인데 어딜\"…몸 주차 후 들어오려는 차 내려친 여성",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225840?sid=102",
-          "published_at": "2026-10-14T05:09:00"
-        },
-        {
-          "title": "시모 대소변 받고 아파트 받은 며느리에게, 귀국한 시누이 \"내 집 내놔\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225844?sid=102",
-          "published_at": "2026-10-14T05:11:00"
-        },
-        {
-          "title": "\"불법주차 또 신고하면 죽여버린다\"…번호판 가리고 협박 경고문 섬뜩",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225848?sid=102",
-          "published_at": "2026-10-14T05:19:00"
-        },
-        {
-          "title": "\"사랑받지 못한 부모는 없다\"…독감에 조퇴한 엄마 울린 초4 아들의 미역국",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225850?sid=102",
-          "published_at": "2026-10-14T05:25:00"
-        },
-        {
-          "title": "\"수영장은 흙탕물, 필터 끼워도 금세 흑갈색으로\"…양평 풀빌라 수질 '경악'",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225852?sid=102",
-          "published_at": "2026-10-14T05:28:00"
-        },
-        {
-          "title": "\"아이스크림이 묵은지냐\"…1박 40만원인데 3년 지난 나뚜루 판 호텔",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225853?sid=102",
-          "published_at": "2026-10-14T05:29:00"
-        },
-        {
-          "title": "국감서 '교육교부금 개편·국민연금 리밸런싱 유예' 공방 전망",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225889?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "못믿는 '스마트워치' 반복되는 '보복범죄'…\"피해자에만 방어 부담\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225884?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "'비화폰 삭제' 박종준 증거인멸 혐의 2심 오늘 선고…1심 무죄",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225883?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "서울시, '건강도시' 국제워크숍 아시아 첫 개최…WHO·6개 도시 참여",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225873?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "'12월 개통 목표' 위례선 트램 속도…서울시, 교통시설 안전진단 본격화",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225872?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "'1억 공천헌금' 강선우, 오늘 1심 선고…징역 4년 구형",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225867?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "서울 노포 15곳 따라 골목여행…'오래가게 위크' 열린다",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225863?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "서울시, 가정집서 반려동물 맡는 '무등록 펫시팅' 단속 강화",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225862?sid=102",
-          "published_at": "2026-10-14T06:00:00"
-        },
-        {
-          "title": "아침기온 '뚝' 최저 5도 쌀쌀한 출근길…시속 55㎞ 강풍(종합)",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225911?sid=102",
-          "published_at": "2026-10-14T06:30:00"
-        },
-        {
-          "title": "사실과 허구 사이…영화는 어디까지 갈 수 있나[전문가 칼럼]",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225910?sid=102",
-          "published_at": "2026-10-14T06:30:00"
-        },
-        {
-          "title": "내신 5등급제에 부담 줄어든 특목·자사고…고교 선택 전략은",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225909?sid=102",
-          "published_at": "2026-10-14T06:30:00"
-        },
-        {
-          "title": "경북도청 이전 10년…건물 들어섰지만 신도시 자족 기능 미흡",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225915?sid=102",
-          "published_at": "2026-10-14T06:30:02"
-        },
-        {
-          "title": "전남광주 남부대 기숙사서 화재, 70여 명 대피 중 1명 경상",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225928?sid=102",
-          "published_at": "2026-10-14T06:51:05"
-        },
-        {
-          "title": "北 \"평남탄전, 연말 성과 위해 진군\"",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225931?sid=102",
-          "published_at": "2026-10-14T06:55:11"
-        },
-        {
-          "title": "北 \"당 결정 관철 위한 생산 투쟁…평양 가죽공장 조명",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225934?sid=102",
-          "published_at": "2026-10-14T06:55:48"
-        },
-        {
-          "title": "北, '사과·배맛 평가 군중심사' 개최",
-          "link": "https://n.news.naver.com/mnews/article/421/0009225935?sid=102",
-          "published_at": "2026-10-14T06:55:58"
+          "title": "서울 금천구 마을버스·승용차 충돌 11명 부상…승객 2명 중상",
+          "link": "https://n.news.naver.com/mnews/article/421/0009228723?sid=102",
+          "published_at": "2026-10-15T06:59:26"
         }
       ]
     }
